@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2013\Projects\Queu_Collection\Queu_Collection\bin\Debug\Queu_Collection.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Queu_Collection\Queu_Collection\bin\Debug\Queu_Collection.exe
+c:\users\admin\documents\visual studio 2013\Projects\Queu_Collection\Queu_Collection\bin\Debug\Queu_Collection.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Queu_Collection\Queu_Collection\obj\Debug\Queu_Collection.exe
+c:\users\admin\documents\visual studio 2013\Projects\Queu_Collection\Queu_Collection\obj\Debug\Queu_Collection.pdb

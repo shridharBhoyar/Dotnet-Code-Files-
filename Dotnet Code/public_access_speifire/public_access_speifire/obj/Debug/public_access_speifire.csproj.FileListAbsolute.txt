@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2013\Projects\public_access_speifire\public_access_speifire\bin\Debug\public_access_speifire.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\public_access_speifire\public_access_speifire\bin\Debug\public_access_speifire.exe
+c:\users\admin\documents\visual studio 2013\Projects\public_access_speifire\public_access_speifire\bin\Debug\public_access_speifire.pdb
+c:\users\admin\documents\visual studio 2013\Projects\public_access_speifire\public_access_speifire\obj\Debug\public_access_speifire.exe
+c:\users\admin\documents\visual studio 2013\Projects\public_access_speifire\public_access_speifire\obj\Debug\public_access_speifire.pdb

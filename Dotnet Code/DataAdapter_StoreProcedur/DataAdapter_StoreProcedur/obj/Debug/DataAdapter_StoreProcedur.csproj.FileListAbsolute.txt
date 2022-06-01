@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\DataAdapter_StoreProcedur\DataAdapter_StoreProcedur\bin\Debug\DataAdapter_StoreProcedur.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\DataAdapter_StoreProcedur\DataAdapter_StoreProcedur\bin\Debug\DataAdapter_StoreProcedur.exe
+c:\users\admin\documents\visual studio 2013\Projects\DataAdapter_StoreProcedur\DataAdapter_StoreProcedur\bin\Debug\DataAdapter_StoreProcedur.pdb
+c:\users\admin\documents\visual studio 2013\Projects\DataAdapter_StoreProcedur\DataAdapter_StoreProcedur\obj\Debug\DataAdapter_StoreProcedur.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\DataAdapter_StoreProcedur\DataAdapter_StoreProcedur\obj\Debug\DataAdapter_StoreProcedur.exe
+c:\users\admin\documents\visual studio 2013\Projects\DataAdapter_StoreProcedur\DataAdapter_StoreProcedur\obj\Debug\DataAdapter_StoreProcedur.pdb

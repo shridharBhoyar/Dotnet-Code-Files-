@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\aspDemo2\aspDemo2\bin\aspDemo2.dll.config
+c:\users\admin\documents\visual studio 2013\Projects\aspDemo2\aspDemo2\bin\aspDemo2.dll
+c:\users\admin\documents\visual studio 2013\Projects\aspDemo2\aspDemo2\bin\aspDemo2.pdb
+c:\users\admin\documents\visual studio 2013\Projects\aspDemo2\aspDemo2\obj\Debug\aspDemo2.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\aspDemo2\aspDemo2\obj\Debug\aspDemo2.dll
+c:\users\admin\documents\visual studio 2013\Projects\aspDemo2\aspDemo2\obj\Debug\aspDemo2.pdb

@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2013\Projects\property2\property2\bin\Debug\property2.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\property2\property2\bin\Debug\property2.exe
+c:\users\admin\documents\visual studio 2013\Projects\property2\property2\bin\Debug\property2.pdb
+c:\users\admin\documents\visual studio 2013\Projects\property2\property2\obj\Debug\property2.exe
+c:\users\admin\documents\visual studio 2013\Projects\property2\property2\obj\Debug\property2.pdb

@@ -1,0 +1,15 @@
+c:\users\admin\documents\visual studio 2013\Projects\Shoppingapp\Shoppingapp\bin\Debug\Shoppingapp.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Shoppingapp\Shoppingapp\bin\Debug\Shoppingapp.exe
+c:\users\admin\documents\visual studio 2013\Projects\Shoppingapp\Shoppingapp\bin\Debug\Shoppingapp.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Shoppingapp\Shoppingapp\obj\Debug\Shoppingapp.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Shoppingapp\Shoppingapp\obj\Debug\Shoppingapp.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\Shoppingapp\Shoppingapp\obj\Debug\Shoppingapp.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Shoppingapp\Shoppingapp\obj\Debug\Shoppingapp.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Shoppingapp\Shoppingapp\obj\Debug\Shoppingapp.exe
+c:\users\admin\documents\visual studio 2013\Projects\Shoppingapp\Shoppingapp\obj\Debug\Shoppingapp.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Shoppingapp\Shoppingapp\obj\Debug\Shoppingapp.login.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Shoppingapp\Shoppingapp\obj\Debug\Shoppingapp.singup.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Shoppingapp\Shoppingapp\obj\Debug\Shoppingapp.additem.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Shoppingapp\Shoppingapp\obj\Debug\Shoppingapp.edititem.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Shoppingapp\Shoppingapp\obj\Debug\Shoppingapp.viewdata.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Shoppingapp\Shoppingapp\obj\Debug\Shoppingapp.details_AndSearch.resources

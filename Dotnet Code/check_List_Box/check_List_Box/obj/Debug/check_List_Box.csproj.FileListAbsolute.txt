@@ -1,0 +1,8 @@
+c:\users\admin\documents\visual studio 2013\Projects\check_List_Box\check_List_Box\bin\Debug\check_List_Box.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\check_List_Box\check_List_Box\bin\Debug\check_List_Box.exe
+c:\users\admin\documents\visual studio 2013\Projects\check_List_Box\check_List_Box\bin\Debug\check_List_Box.pdb
+c:\users\admin\documents\visual studio 2013\Projects\check_List_Box\check_List_Box\obj\Debug\check_List_Box.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\check_List_Box\check_List_Box\obj\Debug\check_List_Box.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\check_List_Box\check_List_Box\obj\Debug\check_List_Box.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\check_List_Box\check_List_Box\obj\Debug\check_List_Box.exe
+c:\users\admin\documents\visual studio 2013\Projects\check_List_Box\check_List_Box\obj\Debug\check_List_Box.pdb

@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\mster2\mster2\bin\mster2.dll.config
+c:\users\admin\documents\visual studio 2013\Projects\mster2\mster2\bin\mster2.dll
+c:\users\admin\documents\visual studio 2013\Projects\mster2\mster2\bin\mster2.pdb
+c:\users\admin\documents\visual studio 2013\Projects\mster2\mster2\obj\Debug\mster2.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\mster2\mster2\obj\Debug\mster2.dll
+c:\users\admin\documents\visual studio 2013\Projects\mster2\mster2\obj\Debug\mster2.pdb

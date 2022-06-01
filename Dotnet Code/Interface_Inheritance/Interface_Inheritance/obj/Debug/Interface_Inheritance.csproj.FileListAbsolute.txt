@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\Interface_Inheritance\Interface_Inheritance\bin\Debug\Interface_Inheritance.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Interface_Inheritance\Interface_Inheritance\obj\Debug\Interface_Inheritance.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Interface_Inheritance\Interface_Inheritance\bin\Debug\Interface_Inheritance.exe
+c:\users\admin\documents\visual studio 2013\Projects\Interface_Inheritance\Interface_Inheritance\bin\Debug\Interface_Inheritance.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Interface_Inheritance\Interface_Inheritance\obj\Debug\Interface_Inheritance.exe
+c:\users\admin\documents\visual studio 2013\Projects\Interface_Inheritance\Interface_Inheritance\obj\Debug\Interface_Inheritance.pdb

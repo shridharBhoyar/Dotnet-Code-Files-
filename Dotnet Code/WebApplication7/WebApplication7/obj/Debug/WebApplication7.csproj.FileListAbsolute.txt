@@ -1,0 +1,16 @@
+c:\users\admin\documents\visual studio 2013\Projects\WebApplication7\WebApplication7\bin\WebApplication7.dll.config
+c:\users\admin\documents\visual studio 2013\Projects\WebApplication7\WebApplication7\bin\WebApplication7.dll
+c:\users\admin\documents\visual studio 2013\Projects\WebApplication7\WebApplication7\bin\WebApplication7.pdb
+c:\users\admin\documents\visual studio 2013\Projects\WebApplication7\WebApplication7\bin\System.Web.Helpers.dll
+c:\users\admin\documents\visual studio 2013\Projects\WebApplication7\WebApplication7\bin\System.Web.Razor.dll
+c:\users\admin\documents\visual studio 2013\Projects\WebApplication7\WebApplication7\bin\System.Web.Webpages.Deployment.dll
+c:\users\admin\documents\visual studio 2013\Projects\WebApplication7\WebApplication7\bin\System.Web.Webpages.dll
+c:\users\admin\documents\visual studio 2013\Projects\WebApplication7\WebApplication7\bin\System.Web.Webpages.Razor.dll
+c:\users\admin\documents\visual studio 2013\Projects\WebApplication7\WebApplication7\bin\System.Web.Razor.xml
+c:\users\admin\documents\visual studio 2013\Projects\WebApplication7\WebApplication7\bin\System.Web.Webpages.xml
+c:\users\admin\documents\visual studio 2013\Projects\WebApplication7\WebApplication7\bin\System.Web.Webpages.Deployment.xml
+c:\users\admin\documents\visual studio 2013\Projects\WebApplication7\WebApplication7\bin\System.Web.Webpages.Razor.xml
+c:\users\admin\documents\visual studio 2013\Projects\WebApplication7\WebApplication7\bin\System.Web.Helpers.xml
+c:\users\admin\documents\visual studio 2013\Projects\WebApplication7\WebApplication7\obj\Debug\WebApplication7.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\WebApplication7\WebApplication7\obj\Debug\WebApplication7.dll
+c:\users\admin\documents\visual studio 2013\Projects\WebApplication7\WebApplication7\obj\Debug\WebApplication7.pdb

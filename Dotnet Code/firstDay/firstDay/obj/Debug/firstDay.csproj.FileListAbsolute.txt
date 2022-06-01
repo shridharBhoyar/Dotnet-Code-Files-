@@ -1,0 +1,13 @@
+c:\users\admin\documents\visual studio 2013\Projects\firstDay\firstDay\bin\Debug\firstDay.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\firstDay\firstDay\bin\Debug\firstDay.exe
+c:\users\admin\documents\visual studio 2013\Projects\firstDay\firstDay\bin\Debug\firstDay.pdb
+c:\users\admin\documents\visual studio 2013\Projects\firstDay\firstDay\obj\Debug\firstDay.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\firstDay\firstDay\obj\Debug\MainWindow.baml
+c:\users\admin\documents\visual studio 2013\Projects\firstDay\firstDay\obj\Debug\MainWindow.g.cs
+c:\users\admin\documents\visual studio 2013\Projects\firstDay\firstDay\obj\Debug\App.g.cs
+c:\users\admin\documents\visual studio 2013\Projects\firstDay\firstDay\obj\Debug\firstDay_MarkupCompile.cache
+c:\users\admin\documents\visual studio 2013\Projects\firstDay\firstDay\obj\Debug\firstDay.g.resources
+c:\users\admin\documents\visual studio 2013\Projects\firstDay\firstDay\obj\Debug\firstDay.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\firstDay\firstDay\obj\Debug\firstDay.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\firstDay\firstDay\obj\Debug\firstDay.exe
+c:\users\admin\documents\visual studio 2013\Projects\firstDay\firstDay\obj\Debug\firstDay.pdb

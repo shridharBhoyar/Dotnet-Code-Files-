@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\User_Throw_User_Cath_Exception\User_Throw_User_Cath_Exception\bin\Debug\User_Throw_User_Cath_Exception.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\User_Throw_User_Cath_Exception\User_Throw_User_Cath_Exception\obj\Debug\User_Throw_User_Cath_Exception.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\User_Throw_User_Cath_Exception\User_Throw_User_Cath_Exception\bin\Debug\User_Throw_User_Cath_Exception.exe
+c:\users\admin\documents\visual studio 2013\Projects\User_Throw_User_Cath_Exception\User_Throw_User_Cath_Exception\bin\Debug\User_Throw_User_Cath_Exception.pdb
+c:\users\admin\documents\visual studio 2013\Projects\User_Throw_User_Cath_Exception\User_Throw_User_Cath_Exception\obj\Debug\User_Throw_User_Cath_Exception.exe
+c:\users\admin\documents\visual studio 2013\Projects\User_Throw_User_Cath_Exception\User_Throw_User_Cath_Exception\obj\Debug\User_Throw_User_Cath_Exception.pdb

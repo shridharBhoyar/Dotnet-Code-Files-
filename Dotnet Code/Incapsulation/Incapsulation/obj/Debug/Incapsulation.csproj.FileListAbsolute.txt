@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\Incapsulation\Incapsulation\bin\Debug\Incapsulation.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Incapsulation\Incapsulation\bin\Debug\Incapsulation.exe
+c:\users\admin\documents\visual studio 2013\Projects\Incapsulation\Incapsulation\bin\Debug\Incapsulation.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Incapsulation\Incapsulation\obj\Debug\Incapsulation.exe
+c:\users\admin\documents\visual studio 2013\Projects\Incapsulation\Incapsulation\obj\Debug\Incapsulation.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Incapsulation\Incapsulation\obj\Debug\Incapsulation.csprojResolveAssemblyReference.cache

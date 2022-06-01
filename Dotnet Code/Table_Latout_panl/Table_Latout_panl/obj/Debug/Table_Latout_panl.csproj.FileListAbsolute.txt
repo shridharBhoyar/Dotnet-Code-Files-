@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2013\Projects\Table_Latout_panl\Table_Latout_panl\bin\Debug\Table_Latout_panl.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Table_Latout_panl\Table_Latout_panl\bin\Debug\Table_Latout_panl.exe
+c:\users\admin\documents\visual studio 2013\Projects\Table_Latout_panl\Table_Latout_panl\bin\Debug\Table_Latout_panl.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Table_Latout_panl\Table_Latout_panl\obj\Debug\Table_Latout_panl.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Table_Latout_panl\Table_Latout_panl\obj\Debug\Table_Latout_panl.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\Table_Latout_panl\Table_Latout_panl\obj\Debug\Table_Latout_panl.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Table_Latout_panl\Table_Latout_panl\obj\Debug\Table_Latout_panl.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Table_Latout_panl\Table_Latout_panl\obj\Debug\Table_Latout_panl.exe
+c:\users\admin\documents\visual studio 2013\Projects\Table_Latout_panl\Table_Latout_panl\obj\Debug\Table_Latout_panl.pdb

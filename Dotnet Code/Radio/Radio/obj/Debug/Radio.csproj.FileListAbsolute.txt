@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2013\Projects\Radio\Radio\bin\Debug\Radio.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Radio\Radio\bin\Debug\Radio.exe
+c:\users\admin\documents\visual studio 2013\Projects\Radio\Radio\bin\Debug\Radio.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Radio\Radio\obj\Debug\Radio.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Radio\Radio\obj\Debug\Radio.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\Radio\Radio\obj\Debug\Radio.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Radio\Radio\obj\Debug\Radio.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Radio\Radio\obj\Debug\Radio.exe
+c:\users\admin\documents\visual studio 2013\Projects\Radio\Radio\obj\Debug\Radio.pdb

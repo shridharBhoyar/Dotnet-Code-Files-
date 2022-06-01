@@ -1,0 +1,15 @@
+c:\users\admin\documents\visual studio 2013\Projects\FertilizerProject\FertilizerProject\bin\Debug\FertilizerProject.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\FertilizerProject\FertilizerProject\bin\Debug\FertilizerProject.exe
+c:\users\admin\documents\visual studio 2013\Projects\FertilizerProject\FertilizerProject\bin\Debug\FertilizerProject.pdb
+c:\users\admin\documents\visual studio 2013\Projects\FertilizerProject\FertilizerProject\obj\Debug\FertilizerProject.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\FertilizerProject\FertilizerProject\obj\Debug\FertilizerProject.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\FertilizerProject\FertilizerProject\obj\Debug\FertilizerProject.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\FertilizerProject\FertilizerProject\obj\Debug\FertilizerProject.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\FertilizerProject\FertilizerProject\obj\Debug\FertilizerProject.exe
+c:\users\admin\documents\visual studio 2013\Projects\FertilizerProject\FertilizerProject\obj\Debug\FertilizerProject.pdb
+c:\users\admin\documents\visual studio 2013\Projects\FertilizerProject\FertilizerProject\obj\Debug\FertilizerProject.Purchase.resources
+c:\users\admin\documents\visual studio 2013\Projects\FertilizerProject\FertilizerProject\obj\Debug\FertilizerProject.Custustomer.resources
+c:\users\admin\documents\visual studio 2013\Projects\FertilizerProject\FertilizerProject\obj\Debug\FertilizerProject.PurchaseList.resources
+c:\users\admin\documents\visual studio 2013\Projects\FertilizerProject\FertilizerProject\obj\Debug\FertilizerProject.Sale.resources
+c:\users\admin\documents\visual studio 2013\Projects\FertilizerProject\FertilizerProject\obj\Debug\FertilizerProject.saleList.resources
+c:\users\admin\documents\visual studio 2013\Projects\FertilizerProject\FertilizerProject\obj\Debug\FertilizerProject.Stock.resources

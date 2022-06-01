@@ -1,0 +1,13 @@
+c:\users\admin\documents\visual studio 2013\Projects\WpfMenu\WpfMenu\bin\Debug\WpfMenu.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\WpfMenu\WpfMenu\bin\Debug\WpfMenu.exe
+c:\users\admin\documents\visual studio 2013\Projects\WpfMenu\WpfMenu\bin\Debug\WpfMenu.pdb
+c:\users\admin\documents\visual studio 2013\Projects\WpfMenu\WpfMenu\obj\Debug\WpfMenu.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\WpfMenu\WpfMenu\obj\Debug\MainWindow.baml
+c:\users\admin\documents\visual studio 2013\Projects\WpfMenu\WpfMenu\obj\Debug\MainWindow.g.cs
+c:\users\admin\documents\visual studio 2013\Projects\WpfMenu\WpfMenu\obj\Debug\App.g.cs
+c:\users\admin\documents\visual studio 2013\Projects\WpfMenu\WpfMenu\obj\Debug\WpfMenu_MarkupCompile.cache
+c:\users\admin\documents\visual studio 2013\Projects\WpfMenu\WpfMenu\obj\Debug\WpfMenu.g.resources
+c:\users\admin\documents\visual studio 2013\Projects\WpfMenu\WpfMenu\obj\Debug\WpfMenu.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\WpfMenu\WpfMenu\obj\Debug\WpfMenu.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\WpfMenu\WpfMenu\obj\Debug\WpfMenu.exe
+c:\users\admin\documents\visual studio 2013\Projects\WpfMenu\WpfMenu\obj\Debug\WpfMenu.pdb

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="mvc_projectModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="purchase">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="purchase_pd_name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="purchase_pd_quantity" Type="int" Nullable="false" />
+    <Property Name="purchase_pd_price" Type="int" Nullable="false" />
+    <Property Name="purchase_pd_date" Type="date" Nullable="false" />
+  </EntityType>
+  <EntityType Name="sale1">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="sale_pd_name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="sale_pd_quantity" Type="int" Nullable="false" />
+    <Property Name="sale_pd_price" Type="int" Nullable="false" />
+    <Property Name="sale_pd_date" Type="date" Nullable="false" />
+  </EntityType>
+  <EntityType Name="stock">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="stock_pd_name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="stock_pd_quantity" Type="int" Nullable="false" />
+    <Property Name="stock_pd_price" Type="int" Nullable="false" />
+    <Property Name="stock_pd_date" Type="date" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="mvc_projectModelStoreContainer">
+    <EntitySet Name="purchase" EntityType="Self.purchase" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sale1" EntityType="Self.sale1" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="stock" EntityType="Self.stock" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

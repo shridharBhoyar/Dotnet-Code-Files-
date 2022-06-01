@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\loginform1\loginform1\bin\loginform1.dll.config
+c:\users\admin\documents\visual studio 2013\Projects\loginform1\loginform1\bin\loginform1.dll
+c:\users\admin\documents\visual studio 2013\Projects\loginform1\loginform1\bin\loginform1.pdb
+c:\users\admin\documents\visual studio 2013\Projects\loginform1\loginform1\obj\Debug\loginform1.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\loginform1\loginform1\obj\Debug\loginform1.dll
+c:\users\admin\documents\visual studio 2013\Projects\loginform1\loginform1\obj\Debug\loginform1.pdb

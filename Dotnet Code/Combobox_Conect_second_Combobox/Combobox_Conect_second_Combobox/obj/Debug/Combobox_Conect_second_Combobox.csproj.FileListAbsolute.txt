@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2013\Projects\Combobox_Conect_second_Combobox\Combobox_Conect_second_Combobox\bin\Debug\Combobox_Conect_second_Combobox.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Combobox_Conect_second_Combobox\Combobox_Conect_second_Combobox\bin\Debug\Combobox_Conect_second_Combobox.exe
+c:\users\admin\documents\visual studio 2013\Projects\Combobox_Conect_second_Combobox\Combobox_Conect_second_Combobox\bin\Debug\Combobox_Conect_second_Combobox.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Combobox_Conect_second_Combobox\Combobox_Conect_second_Combobox\obj\Debug\Combobox_Conect_second_Combobox.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Combobox_Conect_second_Combobox\Combobox_Conect_second_Combobox\obj\Debug\Combobox_Conect_second_Combobox.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\Combobox_Conect_second_Combobox\Combobox_Conect_second_Combobox\obj\Debug\Combobox_Conect_second_Combobox.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Combobox_Conect_second_Combobox\Combobox_Conect_second_Combobox\obj\Debug\Combobox_Conect_second_Combobox.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Combobox_Conect_second_Combobox\Combobox_Conect_second_Combobox\obj\Debug\Combobox_Conect_second_Combobox.exe
+c:\users\admin\documents\visual studio 2013\Projects\Combobox_Conect_second_Combobox\Combobox_Conect_second_Combobox\obj\Debug\Combobox_Conect_second_Combobox.pdb

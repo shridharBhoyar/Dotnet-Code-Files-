@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="mvc_projectModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="purchase">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="purchase_pd_name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="purchase_pd_quantity" Type="Int32" Nullable="false" />
+    <Property Name="purchase_pd_price" Type="Int32" Nullable="false" />
+    <Property Name="purchase_pd_date" Type="DateTime" Nullable="false" Precision="0" />
+  </EntityType>
+  <EntityType Name="sale1">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="sale_pd_name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="sale_pd_quantity" Type="Int32" Nullable="false" />
+    <Property Name="sale_pd_price" Type="Int32" Nullable="false" />
+    <Property Name="sale_pd_date" Type="DateTime" Nullable="false" Precision="0" />
+  </EntityType>
+  <EntityType Name="stock">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="stock_pd_name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="stock_pd_quantity" Type="Int32" Nullable="false" />
+    <Property Name="stock_pd_price" Type="Int32" Nullable="false" />
+    <Property Name="stock_pd_date" Type="DateTime" Nullable="false" Precision="0" />
+  </EntityType>
+  <EntityContainer Name="mvc_projectEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="purchases" EntityType="Self.purchase" />
+    <EntitySet Name="sale1" EntityType="Self.sale1" />
+    <EntitySet Name="stocks" EntityType="Self.stock" />
+  </EntityContainer>
+</Schema>

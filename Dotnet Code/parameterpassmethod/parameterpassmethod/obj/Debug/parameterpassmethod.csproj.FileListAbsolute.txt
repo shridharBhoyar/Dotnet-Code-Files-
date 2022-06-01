@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\parameterpassmethod\parameterpassmethod\bin\Debug\parameterpassmethod.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\parameterpassmethod\parameterpassmethod\bin\Debug\parameterpassmethod.exe
+c:\users\admin\documents\visual studio 2013\Projects\parameterpassmethod\parameterpassmethod\bin\Debug\parameterpassmethod.pdb
+c:\users\admin\documents\visual studio 2013\Projects\parameterpassmethod\parameterpassmethod\obj\Debug\parameterpassmethod.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\parameterpassmethod\parameterpassmethod\obj\Debug\parameterpassmethod.exe
+c:\users\admin\documents\visual studio 2013\Projects\parameterpassmethod\parameterpassmethod\obj\Debug\parameterpassmethod.pdb

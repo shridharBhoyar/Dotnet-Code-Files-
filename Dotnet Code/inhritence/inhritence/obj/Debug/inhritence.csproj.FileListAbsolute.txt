@@ -1,0 +1,2 @@
+c:\users\admin\documents\visual studio 2013\Projects\inhritence\inhritence\bin\Debug\inhritence.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\inhritence\inhritence\obj\Debug\inhritence.csprojResolveAssemblyReference.cache

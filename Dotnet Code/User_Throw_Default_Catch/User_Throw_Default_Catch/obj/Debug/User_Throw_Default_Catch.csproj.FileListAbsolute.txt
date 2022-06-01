@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2013\Projects\User_Throw_Default_Catch\User_Throw_Default_Catch\bin\Debug\User_Throw_Default_Catch.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\User_Throw_Default_Catch\User_Throw_Default_Catch\bin\Debug\User_Throw_Default_Catch.exe
+c:\users\admin\documents\visual studio 2013\Projects\User_Throw_Default_Catch\User_Throw_Default_Catch\bin\Debug\User_Throw_Default_Catch.pdb
+c:\users\admin\documents\visual studio 2013\Projects\User_Throw_Default_Catch\User_Throw_Default_Catch\obj\Debug\User_Throw_Default_Catch.exe
+c:\users\admin\documents\visual studio 2013\Projects\User_Throw_Default_Catch\User_Throw_Default_Catch\obj\Debug\User_Throw_Default_Catch.pdb

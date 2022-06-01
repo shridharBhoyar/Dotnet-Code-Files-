@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2013\Projects\Single_Delegat\Single_Delegat\bin\Debug\Single_Delegat.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Single_Delegat\Single_Delegat\bin\Debug\Single_Delegat.exe
+c:\users\admin\documents\visual studio 2013\Projects\Single_Delegat\Single_Delegat\bin\Debug\Single_Delegat.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Single_Delegat\Single_Delegat\obj\Debug\Single_Delegat.exe
+c:\users\admin\documents\visual studio 2013\Projects\Single_Delegat\Single_Delegat\obj\Debug\Single_Delegat.pdb

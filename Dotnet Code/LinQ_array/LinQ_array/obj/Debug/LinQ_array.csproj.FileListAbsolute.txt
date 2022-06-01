@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\LinQ_array\LinQ_array\bin\Debug\LinQ_array.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\LinQ_array\LinQ_array\bin\Debug\LinQ_array.exe
+c:\users\admin\documents\visual studio 2013\Projects\LinQ_array\LinQ_array\bin\Debug\LinQ_array.pdb
+c:\users\admin\documents\visual studio 2013\Projects\LinQ_array\LinQ_array\obj\Debug\LinQ_array.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\LinQ_array\LinQ_array\obj\Debug\LinQ_array.exe
+c:\users\admin\documents\visual studio 2013\Projects\LinQ_array\LinQ_array\obj\Debug\LinQ_array.pdb

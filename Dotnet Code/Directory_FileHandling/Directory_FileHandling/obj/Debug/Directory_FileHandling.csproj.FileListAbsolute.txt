@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\Directory_FileHandling\Directory_FileHandling\bin\Debug\Directory_FileHandling.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Directory_FileHandling\Directory_FileHandling\bin\Debug\Directory_FileHandling.exe
+c:\users\admin\documents\visual studio 2013\Projects\Directory_FileHandling\Directory_FileHandling\bin\Debug\Directory_FileHandling.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Directory_FileHandling\Directory_FileHandling\obj\Debug\Directory_FileHandling.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Directory_FileHandling\Directory_FileHandling\obj\Debug\Directory_FileHandling.exe
+c:\users\admin\documents\visual studio 2013\Projects\Directory_FileHandling\Directory_FileHandling\obj\Debug\Directory_FileHandling.pdb

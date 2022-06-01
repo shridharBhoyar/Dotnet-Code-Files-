@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\firstprogram\firstprogram\bin\Debug\firstprogram.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\firstprogram\firstprogram\bin\Debug\firstprogram.exe
+c:\users\admin\documents\visual studio 2013\Projects\firstprogram\firstprogram\bin\Debug\firstprogram.pdb
+c:\users\admin\documents\visual studio 2013\Projects\firstprogram\firstprogram\obj\Debug\firstprogram.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\firstprogram\firstprogram\obj\Debug\firstprogram.exe
+c:\users\admin\documents\visual studio 2013\Projects\firstprogram\firstprogram\obj\Debug\firstprogram.pdb

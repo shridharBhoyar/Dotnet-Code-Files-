@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\Interface_inheritance_same_method\Interface_inheritance_same_method\bin\Debug\Interface_inheritance_same_method.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Interface_inheritance_same_method\Interface_inheritance_same_method\bin\Debug\Interface_inheritance_same_method.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Interface_inheritance_same_method\Interface_inheritance_same_method\bin\Debug\Interface_inheritance_same_method.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Interface_inheritance_same_method\Interface_inheritance_same_method\obj\Debug\Interface_inheritance_same_method.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Interface_inheritance_same_method\Interface_inheritance_same_method\obj\Debug\Interface_inheritance_same_method.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Interface_inheritance_same_method\Interface_inheritance_same_method\obj\Debug\Interface_inheritance_same_method.pdb

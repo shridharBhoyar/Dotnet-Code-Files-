@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\List_Generic_Collection\List_Generic_Collection\bin\Debug\List_Generic_Collection.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\List_Generic_Collection\List_Generic_Collection\bin\Debug\List_Generic_Collection.exe
+c:\users\admin\documents\visual studio 2013\Projects\List_Generic_Collection\List_Generic_Collection\bin\Debug\List_Generic_Collection.pdb
+c:\users\admin\documents\visual studio 2013\Projects\List_Generic_Collection\List_Generic_Collection\obj\Debug\List_Generic_Collection.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\List_Generic_Collection\List_Generic_Collection\obj\Debug\List_Generic_Collection.exe
+c:\users\admin\documents\visual studio 2013\Projects\List_Generic_Collection\List_Generic_Collection\obj\Debug\List_Generic_Collection.pdb

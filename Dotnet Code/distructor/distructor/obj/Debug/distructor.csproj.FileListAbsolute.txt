@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2013\Projects\distructor\distructor\bin\Debug\distructor.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\distructor\distructor\bin\Debug\distructor.exe
+c:\users\admin\documents\visual studio 2013\Projects\distructor\distructor\bin\Debug\distructor.pdb
+c:\users\admin\documents\visual studio 2013\Projects\distructor\distructor\obj\Debug\distructor.exe
+c:\users\admin\documents\visual studio 2013\Projects\distructor\distructor\obj\Debug\distructor.pdb

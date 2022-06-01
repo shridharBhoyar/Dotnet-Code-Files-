@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2013\Projects\mthodorfunction\mthodorfunction\bin\Debug\mthodorfunction.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\mthodorfunction\mthodorfunction\bin\Debug\mthodorfunction.exe
+c:\users\admin\documents\visual studio 2013\Projects\mthodorfunction\mthodorfunction\bin\Debug\mthodorfunction.pdb
+c:\users\admin\documents\visual studio 2013\Projects\mthodorfunction\mthodorfunction\obj\Debug\mthodorfunction.exe
+c:\users\admin\documents\visual studio 2013\Projects\mthodorfunction\mthodorfunction\obj\Debug\mthodorfunction.pdb

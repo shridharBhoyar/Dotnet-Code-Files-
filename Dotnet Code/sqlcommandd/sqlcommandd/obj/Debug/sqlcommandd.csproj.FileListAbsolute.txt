@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\sqlcommandd\sqlcommandd\bin\Debug\sqlcommandd.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\sqlcommandd\sqlcommandd\bin\Debug\sqlcommandd.exe
+c:\users\admin\documents\visual studio 2013\Projects\sqlcommandd\sqlcommandd\bin\Debug\sqlcommandd.pdb
+c:\users\admin\documents\visual studio 2013\Projects\sqlcommandd\sqlcommandd\obj\Debug\sqlcommandd.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\sqlcommandd\sqlcommandd\obj\Debug\sqlcommandd.exe
+c:\users\admin\documents\visual studio 2013\Projects\sqlcommandd\sqlcommandd\obj\Debug\sqlcommandd.pdb

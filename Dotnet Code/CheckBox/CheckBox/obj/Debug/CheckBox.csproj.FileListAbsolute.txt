@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2013\Projects\CheckBox\CheckBox\bin\Debug\CheckBox.exe.config
+C:\Users\Admin\documents\visual studio 2013\Projects\CheckBox\CheckBox\bin\Debug\CheckBox.exe
+C:\Users\Admin\documents\visual studio 2013\Projects\CheckBox\CheckBox\bin\Debug\CheckBox.pdb
+C:\Users\Admin\documents\visual studio 2013\Projects\CheckBox\CheckBox\obj\Debug\CheckBox.csprojResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2013\Projects\CheckBox\CheckBox\obj\Debug\CheckBox.Form1.resources
+C:\Users\Admin\documents\visual studio 2013\Projects\CheckBox\CheckBox\obj\Debug\CheckBox.Properties.Resources.resources
+C:\Users\Admin\documents\visual studio 2013\Projects\CheckBox\CheckBox\obj\Debug\CheckBox.csproj.GenerateResource.Cache
+C:\Users\Admin\documents\visual studio 2013\Projects\CheckBox\CheckBox\obj\Debug\CheckBox.exe
+C:\Users\Admin\documents\visual studio 2013\Projects\CheckBox\CheckBox\obj\Debug\CheckBox.pdb

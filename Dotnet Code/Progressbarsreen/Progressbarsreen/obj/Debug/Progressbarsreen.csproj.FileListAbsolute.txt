@@ -1,0 +1,10 @@
+c:\users\admin\documents\visual studio 2013\Projects\Progressbarsreen\Progressbarsreen\bin\Debug\Progressbarsreen.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Progressbarsreen\Progressbarsreen\bin\Debug\Progressbarsreen.exe
+c:\users\admin\documents\visual studio 2013\Projects\Progressbarsreen\Progressbarsreen\bin\Debug\Progressbarsreen.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Progressbarsreen\Progressbarsreen\obj\Debug\Progressbarsreen.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Progressbarsreen\Progressbarsreen\obj\Debug\Progressbarsreen.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\Progressbarsreen\Progressbarsreen\obj\Debug\Progressbarsreen.Progressbar.resources
+c:\users\admin\documents\visual studio 2013\Projects\Progressbarsreen\Progressbarsreen\obj\Debug\Progressbarsreen.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Progressbarsreen\Progressbarsreen\obj\Debug\Progressbarsreen.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Progressbarsreen\Progressbarsreen\obj\Debug\Progressbarsreen.exe
+c:\users\admin\documents\visual studio 2013\Projects\Progressbarsreen\Progressbarsreen\obj\Debug\Progressbarsreen.pdb

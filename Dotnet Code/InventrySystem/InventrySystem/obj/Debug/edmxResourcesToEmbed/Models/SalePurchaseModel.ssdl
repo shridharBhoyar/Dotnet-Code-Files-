@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="projectModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Purchase">
+    <Key>
+      <PropertyRef Name="Produc_id" />
+    </Key>
+    <Property Name="Produc_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Product_Name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Produc_Quantity" Type="int" Nullable="false" />
+    <Property Name="Produc_Price" Type="int" Nullable="false" />
+    <Property Name="Produc_Date" Type="date" />
+  </EntityType>
+  <EntityType Name="Sale">
+    <Key>
+      <PropertyRef Name="SaleProduct_id" />
+    </Key>
+    <Property Name="SaleProduct_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Customer_Name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="SaleProduct_Name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="SaleProduct_Quantity" Type="int" Nullable="false" />
+    <Property Name="SaleProduct_Price" Type="int" Nullable="false" />
+    <Property Name="SaleProduct_Date" Type="date" />
+    <Property Name="Customer_Mobile_No" Type="varbinary" MaxLength="50" Nullable="false" />
+    <Property Name="Customer_Address" Type="varbinary" MaxLength="50" Nullable="false" />
+    <Property Name="Gender" Type="varbinary" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="projectModelStoreContainer">
+    <EntitySet Name="Purchase" EntityType="Self.Purchase" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Sale" EntityType="Self.Sale" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

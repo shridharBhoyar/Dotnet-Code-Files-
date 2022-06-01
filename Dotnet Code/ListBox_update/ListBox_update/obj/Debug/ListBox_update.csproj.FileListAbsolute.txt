@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2013\Projects\ListBox_update\ListBox_update\bin\Debug\ListBox_update.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\ListBox_update\ListBox_update\bin\Debug\ListBox_update.exe
+c:\users\admin\documents\visual studio 2013\Projects\ListBox_update\ListBox_update\bin\Debug\ListBox_update.pdb
+c:\users\admin\documents\visual studio 2013\Projects\ListBox_update\ListBox_update\obj\Debug\ListBox_update.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\ListBox_update\ListBox_update\obj\Debug\ListBox_update.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\ListBox_update\ListBox_update\obj\Debug\ListBox_update.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\ListBox_update\ListBox_update\obj\Debug\ListBox_update.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\ListBox_update\ListBox_update\obj\Debug\ListBox_update.exe
+c:\users\admin\documents\visual studio 2013\Projects\ListBox_update\ListBox_update\obj\Debug\ListBox_update.pdb

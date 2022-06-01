@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\set_get_property\set_get_property\bin\Debug\set_get_property.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\set_get_property\set_get_property\bin\Debug\set_get_property.exe
+c:\users\admin\documents\visual studio 2013\Projects\set_get_property\set_get_property\bin\Debug\set_get_property.pdb
+c:\users\admin\documents\visual studio 2013\Projects\set_get_property\set_get_property\obj\Debug\set_get_property.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\set_get_property\set_get_property\obj\Debug\set_get_property.exe
+c:\users\admin\documents\visual studio 2013\Projects\set_get_property\set_get_property\obj\Debug\set_get_property.pdb

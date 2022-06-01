@@ -1,0 +1,13 @@
+c:\users\admin\documents\visual studio 2013\Projects\DatabaseFirst_Enumration\DatabaseFirst_Enumration\bin\Debug\DatabaseFirst_Enumration.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\DatabaseFirst_Enumration\DatabaseFirst_Enumration\obj\Debug\DatabaseFirst_Enumration.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\DatabaseFirst_Enumration\DatabaseFirst_Enumration\obj\Debug\DatabaseFirst_Enumration.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\DatabaseFirst_Enumration\DatabaseFirst_Enumration\obj\Debug\DatabaseFirst_Enumration.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\DatabaseFirst_Enumration\DatabaseFirst_Enumration\obj\Debug\DatabaseFirst_Enumration.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\DatabaseFirst_Enumration\DatabaseFirst_Enumration\bin\Debug\DatabaseFirst_Enumration.exe
+c:\users\admin\documents\visual studio 2013\Projects\DatabaseFirst_Enumration\DatabaseFirst_Enumration\bin\Debug\DatabaseFirst_Enumration.pdb
+c:\users\admin\documents\visual studio 2013\Projects\DatabaseFirst_Enumration\DatabaseFirst_Enumration\bin\Debug\EntityFramework.dll
+c:\users\admin\documents\visual studio 2013\Projects\DatabaseFirst_Enumration\DatabaseFirst_Enumration\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\admin\documents\visual studio 2013\Projects\DatabaseFirst_Enumration\DatabaseFirst_Enumration\bin\Debug\EntityFramework.xml
+c:\users\admin\documents\visual studio 2013\Projects\DatabaseFirst_Enumration\DatabaseFirst_Enumration\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\admin\documents\visual studio 2013\Projects\DatabaseFirst_Enumration\DatabaseFirst_Enumration\obj\Debug\DatabaseFirst_Enumration.exe
+c:\users\admin\documents\visual studio 2013\Projects\DatabaseFirst_Enumration\DatabaseFirst_Enumration\obj\Debug\DatabaseFirst_Enumration.pdb

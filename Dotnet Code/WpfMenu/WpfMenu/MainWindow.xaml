@@ -1,0 +1,23 @@
+﻿<Window x:Class="WpfMenu.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <StackPanel>
+        <Menu FontSize="14" IsMainMenu="True">
+
+
+            <MenuItem FontSize="14" Header="File">
+                <MenuItem Header="copy"></MenuItem>
+                <MenuItem Header="past"></MenuItem>
+            </MenuItem>
+            <MenuItem FontSize="14" Header="Edit">
+                <MenuItem Header="Desing"></MenuItem>
+                <MenuItem Header="Crop"></MenuItem>
+            </MenuItem>
+            <MenuItem FontSize="14" Header="Home"></MenuItem>
+            <MenuItem FontSize="14" Header="Exit"></MenuItem>
+        </Menu>
+        </StackPanel>
+
+
+</Window>

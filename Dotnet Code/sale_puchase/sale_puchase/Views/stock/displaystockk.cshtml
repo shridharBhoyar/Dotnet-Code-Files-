@@ -1,0 +1,62 @@
+﻿@model IEnumerable<sale_puchase.Models.stock>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>displaystockk</title>
+</head>
+<body>
+    <p>
+        @Html.ActionLink("Create New", "Create","", new { }, new { @class = "btn btn-primary" })
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.stock_pd_name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.stock_pd_quantity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.stock_pd_price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.stock_pd_date)
+            </th>
+            <th></th>
+        </tr>
+    
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.stock_pd_name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.stock_pd_quantity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.stock_pd_price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.stock_pd_date)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit","" ,new { id = item.id }, new { @class="btn btn-danger"}) |
+                @Html.ActionLink("Details", "Details", new { id=item.id }) |
+                @Html.ActionLink("Delete", "Delete", new { id=item.id })
+            </td>
+        </tr>
+    }
+    
+        
+    </table>
+    <input type="button" value="aaa" class="btn-danger">
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+</body>
+</html>

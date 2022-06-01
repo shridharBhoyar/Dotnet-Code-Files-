@@ -1,0 +1,10 @@
+c:\users\admin\documents\visual studio 2013\Projects\Data_Transform_another_Form\Data_Transform_another_Form\bin\Debug\Data_Transform_another_Form.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Data_Transform_another_Form\Data_Transform_another_Form\bin\Debug\Data_Transform_another_Form.exe
+c:\users\admin\documents\visual studio 2013\Projects\Data_Transform_another_Form\Data_Transform_another_Form\bin\Debug\Data_Transform_another_Form.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Data_Transform_another_Form\Data_Transform_another_Form\obj\Debug\Data_Transform_another_Form.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Data_Transform_another_Form\Data_Transform_another_Form\obj\Debug\Data_Transform_another_Form.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\Data_Transform_another_Form\Data_Transform_another_Form\obj\Debug\Data_Transform_another_Form.Form2.resources
+c:\users\admin\documents\visual studio 2013\Projects\Data_Transform_another_Form\Data_Transform_another_Form\obj\Debug\Data_Transform_another_Form.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Data_Transform_another_Form\Data_Transform_another_Form\obj\Debug\Data_Transform_another_Form.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Data_Transform_another_Form\Data_Transform_another_Form\obj\Debug\Data_Transform_another_Form.exe
+c:\users\admin\documents\visual studio 2013\Projects\Data_Transform_another_Form\Data_Transform_another_Form\obj\Debug\Data_Transform_another_Form.pdb

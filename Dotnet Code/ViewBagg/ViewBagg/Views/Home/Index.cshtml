@@ -1,0 +1,38 @@
+﻿@model ViewBagg.Models.Employeee
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div> 
+        <p>@ViewBag.msg</p>
+        <p>@Model.id</p>
+        <p>@Model.name</p>
+        <p>@Model.age</p>
+        <p>
+            <ul>
+                @{
+                    foreach (var item in @ViewBag.arr)
+                    {
+                       <li>@item</li>
+                    }
+                }
+            </ul>
+        </p>
+       
+        <P>
+            <ul>
+                @{
+                    foreach (var item in @ViewBag.mm)
+                    {
+                        <li>@item</li>
+                    }
+                }
+            </ul>
+        </P>
+    </div>
+</body>
+</html>

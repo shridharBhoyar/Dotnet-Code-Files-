@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\Try_Catch_Exeption\Try_Catch_Exeption\bin\Debug\Try_Catch_Exeption.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Try_Catch_Exeption\Try_Catch_Exeption\bin\Debug\Try_Catch_Exeption.exe
+c:\users\admin\documents\visual studio 2013\Projects\Try_Catch_Exeption\Try_Catch_Exeption\bin\Debug\Try_Catch_Exeption.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Try_Catch_Exeption\Try_Catch_Exeption\obj\Debug\Try_Catch_Exeption.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Try_Catch_Exeption\Try_Catch_Exeption\obj\Debug\Try_Catch_Exeption.exe
+c:\users\admin\documents\visual studio 2013\Projects\Try_Catch_Exeption\Try_Catch_Exeption\obj\Debug\Try_Catch_Exeption.pdb

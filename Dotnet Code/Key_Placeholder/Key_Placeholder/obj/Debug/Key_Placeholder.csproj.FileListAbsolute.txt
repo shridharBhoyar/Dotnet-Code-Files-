@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2013\Projects\Key_Placeholder\Key_Placeholder\bin\Debug\Key_Placeholder.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Key_Placeholder\Key_Placeholder\bin\Debug\Key_Placeholder.exe
+c:\users\admin\documents\visual studio 2013\Projects\Key_Placeholder\Key_Placeholder\bin\Debug\Key_Placeholder.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Key_Placeholder\Key_Placeholder\obj\Debug\Key_Placeholder.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Key_Placeholder\Key_Placeholder\obj\Debug\Key_Placeholder.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\Key_Placeholder\Key_Placeholder\obj\Debug\Key_Placeholder.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Key_Placeholder\Key_Placeholder\obj\Debug\Key_Placeholder.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Key_Placeholder\Key_Placeholder\obj\Debug\Key_Placeholder.exe
+c:\users\admin\documents\visual studio 2013\Projects\Key_Placeholder\Key_Placeholder\obj\Debug\Key_Placeholder.pdb

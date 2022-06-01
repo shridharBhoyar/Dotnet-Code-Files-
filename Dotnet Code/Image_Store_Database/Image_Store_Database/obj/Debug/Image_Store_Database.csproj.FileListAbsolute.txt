@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2013\Projects\Image_Store_Database\Image_Store_Database\bin\Debug\Image_Store_Database.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Image_Store_Database\Image_Store_Database\bin\Debug\Image_Store_Database.exe
+c:\users\admin\documents\visual studio 2013\Projects\Image_Store_Database\Image_Store_Database\bin\Debug\Image_Store_Database.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Image_Store_Database\Image_Store_Database\obj\Debug\Image_Store_Database.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Image_Store_Database\Image_Store_Database\obj\Debug\Image_Store_Database.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\Image_Store_Database\Image_Store_Database\obj\Debug\Image_Store_Database.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Image_Store_Database\Image_Store_Database\obj\Debug\Image_Store_Database.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Image_Store_Database\Image_Store_Database\obj\Debug\Image_Store_Database.exe
+c:\users\admin\documents\visual studio 2013\Projects\Image_Store_Database\Image_Store_Database\obj\Debug\Image_Store_Database.pdb

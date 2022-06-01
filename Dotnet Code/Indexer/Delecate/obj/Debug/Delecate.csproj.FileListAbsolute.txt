@@ -1,0 +1,5 @@
+C:\Users\Admin\documents\visual studio 2013\Projects\Indexer\Delecate\bin\Debug\Delecate.exe.config
+C:\Users\Admin\documents\visual studio 2013\Projects\Indexer\Delecate\bin\Debug\Delecate.exe
+C:\Users\Admin\documents\visual studio 2013\Projects\Indexer\Delecate\bin\Debug\Delecate.pdb
+C:\Users\Admin\documents\visual studio 2013\Projects\Indexer\Delecate\obj\Debug\Delecate.exe
+C:\Users\Admin\documents\visual studio 2013\Projects\Indexer\Delecate\obj\Debug\Delecate.pdb

@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\multidimentionarray\multidimentionarray\bin\Debug\multidimentionarray.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\multidimentionarray\multidimentionarray\obj\Debug\multidimentionarray.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\multidimentionarray\multidimentionarray\bin\Debug\multidimentionarray.exe
+c:\users\admin\documents\visual studio 2013\Projects\multidimentionarray\multidimentionarray\bin\Debug\multidimentionarray.pdb
+c:\users\admin\documents\visual studio 2013\Projects\multidimentionarray\multidimentionarray\obj\Debug\multidimentionarray.exe
+c:\users\admin\documents\visual studio 2013\Projects\multidimentionarray\multidimentionarray\obj\Debug\multidimentionarray.pdb

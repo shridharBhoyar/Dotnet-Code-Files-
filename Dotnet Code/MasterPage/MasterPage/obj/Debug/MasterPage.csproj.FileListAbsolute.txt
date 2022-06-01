@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\MasterPage\MasterPage\bin\MasterPage.dll.config
+c:\users\admin\documents\visual studio 2013\Projects\MasterPage\MasterPage\bin\MasterPage.dll
+c:\users\admin\documents\visual studio 2013\Projects\MasterPage\MasterPage\bin\MasterPage.pdb
+c:\users\admin\documents\visual studio 2013\Projects\MasterPage\MasterPage\obj\Debug\MasterPage.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\MasterPage\MasterPage\obj\Debug\MasterPage.dll
+c:\users\admin\documents\visual studio 2013\Projects\MasterPage\MasterPage\obj\Debug\MasterPage.pdb

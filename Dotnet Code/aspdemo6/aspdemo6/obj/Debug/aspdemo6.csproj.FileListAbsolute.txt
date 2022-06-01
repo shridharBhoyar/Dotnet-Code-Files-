@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\aspdemo6\aspdemo6\bin\aspdemo6.dll.config
+c:\users\admin\documents\visual studio 2013\Projects\aspdemo6\aspdemo6\bin\aspdemo6.dll
+c:\users\admin\documents\visual studio 2013\Projects\aspdemo6\aspdemo6\bin\aspdemo6.pdb
+c:\users\admin\documents\visual studio 2013\Projects\aspdemo6\aspdemo6\obj\Debug\aspdemo6.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\aspdemo6\aspdemo6\obj\Debug\aspdemo6.dll
+c:\users\admin\documents\visual studio 2013\Projects\aspdemo6\aspdemo6\obj\Debug\aspdemo6.pdb

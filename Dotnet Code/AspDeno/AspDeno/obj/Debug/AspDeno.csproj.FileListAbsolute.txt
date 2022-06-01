@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\AspDeno\AspDeno\bin\AspDeno.dll.config
+c:\users\admin\documents\visual studio 2013\Projects\AspDeno\AspDeno\bin\AspDeno.dll
+c:\users\admin\documents\visual studio 2013\Projects\AspDeno\AspDeno\bin\AspDeno.pdb
+c:\users\admin\documents\visual studio 2013\Projects\AspDeno\AspDeno\obj\Debug\AspDeno.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\AspDeno\AspDeno\obj\Debug\AspDeno.dll
+c:\users\admin\documents\visual studio 2013\Projects\AspDeno\AspDeno\obj\Debug\AspDeno.pdb

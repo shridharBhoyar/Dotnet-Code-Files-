@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2013\Projects\foreacharray\foreacharray\bin\Debug\foreacharray.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\foreacharray\foreacharray\bin\Debug\foreacharray.exe
+c:\users\admin\documents\visual studio 2013\Projects\foreacharray\foreacharray\bin\Debug\foreacharray.pdb
+c:\users\admin\documents\visual studio 2013\Projects\foreacharray\foreacharray\obj\Debug\foreacharray.exe
+c:\users\admin\documents\visual studio 2013\Projects\foreacharray\foreacharray\obj\Debug\foreacharray.pdb

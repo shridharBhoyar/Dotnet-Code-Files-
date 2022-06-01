@@ -1,0 +1,8 @@
+c:\users\admin\documents\visual studio 2013\Projects\Mouse_Hover_And_Leave1\Mouse_Hover_And_Leave1\bin\Debug\Mouse_Hover_And_Leave1.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Mouse_Hover_And_Leave1\Mouse_Hover_And_Leave1\bin\Debug\Mouse_Hover_And_Leave1.exe
+c:\users\admin\documents\visual studio 2013\Projects\Mouse_Hover_And_Leave1\Mouse_Hover_And_Leave1\bin\Debug\Mouse_Hover_And_Leave1.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Mouse_Hover_And_Leave1\Mouse_Hover_And_Leave1\obj\Debug\Mouse_Hover_And_Leave1.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\Mouse_Hover_And_Leave1\Mouse_Hover_And_Leave1\obj\Debug\Mouse_Hover_And_Leave1.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Mouse_Hover_And_Leave1\Mouse_Hover_And_Leave1\obj\Debug\Mouse_Hover_And_Leave1.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Mouse_Hover_And_Leave1\Mouse_Hover_And_Leave1\obj\Debug\Mouse_Hover_And_Leave1.exe
+c:\users\admin\documents\visual studio 2013\Projects\Mouse_Hover_And_Leave1\Mouse_Hover_And_Leave1\obj\Debug\Mouse_Hover_And_Leave1.pdb

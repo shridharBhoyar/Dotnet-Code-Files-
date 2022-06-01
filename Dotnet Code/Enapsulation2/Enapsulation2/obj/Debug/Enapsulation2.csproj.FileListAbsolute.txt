@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\Enapsulation2\Enapsulation2\bin\Debug\Enapsulation2.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Enapsulation2\Enapsulation2\bin\Debug\Enapsulation2.exe
+c:\users\admin\documents\visual studio 2013\Projects\Enapsulation2\Enapsulation2\bin\Debug\Enapsulation2.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Enapsulation2\Enapsulation2\obj\Debug\Enapsulation2.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Enapsulation2\Enapsulation2\obj\Debug\Enapsulation2.exe
+c:\users\admin\documents\visual studio 2013\Projects\Enapsulation2\Enapsulation2\obj\Debug\Enapsulation2.pdb

@@ -1,0 +1,52 @@
+﻿@using MVC_Inventory_Project.Models
+@model multiclass
+
+
+@{
+    ViewBag.Title = "saleInventory";
+}
+
+<h2>saleInventory</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.Label("Product Name")
+        </th>
+        <th>
+            @Html.Label("Produc Quantity")
+        </th>
+        <th>
+            @Html.Label("Produc Price")
+        </th>
+        <th>
+            @Html.Label("Produc Date")
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model.permul) {
+    <tr>
+        <td>
+            @item.Product_Name
+        </td>
+        <td>
+            @item.Produc_Quantity
+        </td>
+        <td>
+            @item.Produc_Price
+        </td>
+        <td>
+            @item.Produc_Date
+        </td>
+        <td>
+            
+            @Html.ActionLink("Select", "Select", new { id = item.Produc_id })
+        </td>
+    </tr>
+}
+
+</table>

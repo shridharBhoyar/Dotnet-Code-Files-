@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2013\Projects\Radio_Button\Radio_Button\bin\Debug\Radio_Button.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Radio_Button\Radio_Button\bin\Debug\Radio_Button.exe
+c:\users\admin\documents\visual studio 2013\Projects\Radio_Button\Radio_Button\bin\Debug\Radio_Button.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Radio_Button\Radio_Button\obj\Debug\Radio_Button.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Radio_Button\Radio_Button\obj\Debug\Radio_Button.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\Radio_Button\Radio_Button\obj\Debug\Radio_Button.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Radio_Button\Radio_Button\obj\Debug\Radio_Button.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Radio_Button\Radio_Button\obj\Debug\Radio_Button.exe
+c:\users\admin\documents\visual studio 2013\Projects\Radio_Button\Radio_Button\obj\Debug\Radio_Button.pdb

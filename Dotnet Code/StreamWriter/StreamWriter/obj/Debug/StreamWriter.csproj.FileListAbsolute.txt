@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\StreamWriter\StreamWriter\bin\Debug\StreamWriter.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\StreamWriter\StreamWriter\bin\Debug\StreamWriter.exe
+c:\users\admin\documents\visual studio 2013\Projects\StreamWriter\StreamWriter\bin\Debug\StreamWriter.pdb
+c:\users\admin\documents\visual studio 2013\Projects\StreamWriter\StreamWriter\obj\Debug\StreamWriter.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\StreamWriter\StreamWriter\obj\Debug\StreamWriter.exe
+c:\users\admin\documents\visual studio 2013\Projects\StreamWriter\StreamWriter\obj\Debug\StreamWriter.pdb

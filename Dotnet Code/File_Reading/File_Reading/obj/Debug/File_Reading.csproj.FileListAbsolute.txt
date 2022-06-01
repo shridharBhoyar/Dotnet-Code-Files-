@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2013\Projects\File_Reading\File_Reading\bin\Debug\File_Reading.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\File_Reading\File_Reading\bin\Debug\File_Reading.exe
+c:\users\admin\documents\visual studio 2013\Projects\File_Reading\File_Reading\bin\Debug\File_Reading.pdb
+c:\users\admin\documents\visual studio 2013\Projects\File_Reading\File_Reading\obj\Debug\File_Reading.exe
+c:\users\admin\documents\visual studio 2013\Projects\File_Reading\File_Reading\obj\Debug\File_Reading.pdb

@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2013\Projects\operatorlogical\operatorlogical\bin\Debug\operatorlogical.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\operatorlogical\operatorlogical\bin\Debug\operatorlogical.exe
+c:\users\admin\documents\visual studio 2013\Projects\operatorlogical\operatorlogical\bin\Debug\operatorlogical.pdb
+c:\users\admin\documents\visual studio 2013\Projects\operatorlogical\operatorlogical\obj\Debug\operatorlogical.exe
+c:\users\admin\documents\visual studio 2013\Projects\operatorlogical\operatorlogical\obj\Debug\operatorlogical.pdb

@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2013\Projects\Autocomplete_Textbox_Withsql\Autocomplete_Textbox_Withsql\bin\Debug\Autocomplete_Textbox_Withsql.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Autocomplete_Textbox_Withsql\Autocomplete_Textbox_Withsql\bin\Debug\Autocomplete_Textbox_Withsql.exe
+c:\users\admin\documents\visual studio 2013\Projects\Autocomplete_Textbox_Withsql\Autocomplete_Textbox_Withsql\bin\Debug\Autocomplete_Textbox_Withsql.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Autocomplete_Textbox_Withsql\Autocomplete_Textbox_Withsql\obj\Debug\Autocomplete_Textbox_Withsql.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Autocomplete_Textbox_Withsql\Autocomplete_Textbox_Withsql\obj\Debug\Autocomplete_Textbox_Withsql.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\Autocomplete_Textbox_Withsql\Autocomplete_Textbox_Withsql\obj\Debug\Autocomplete_Textbox_Withsql.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Autocomplete_Textbox_Withsql\Autocomplete_Textbox_Withsql\obj\Debug\Autocomplete_Textbox_Withsql.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Autocomplete_Textbox_Withsql\Autocomplete_Textbox_Withsql\obj\Debug\Autocomplete_Textbox_Withsql.exe
+c:\users\admin\documents\visual studio 2013\Projects\Autocomplete_Textbox_Withsql\Autocomplete_Textbox_Withsql\obj\Debug\Autocomplete_Textbox_Withsql.pdb

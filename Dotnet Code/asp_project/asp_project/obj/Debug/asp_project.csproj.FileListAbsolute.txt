@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\asp_project\asp_project\bin\asp_project.dll.config
+c:\users\admin\documents\visual studio 2013\Projects\asp_project\asp_project\bin\asp_project.dll
+c:\users\admin\documents\visual studio 2013\Projects\asp_project\asp_project\bin\asp_project.pdb
+c:\users\admin\documents\visual studio 2013\Projects\asp_project\asp_project\obj\Debug\asp_project.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\asp_project\asp_project\obj\Debug\asp_project.dll
+c:\users\admin\documents\visual studio 2013\Projects\asp_project\asp_project\obj\Debug\asp_project.pdb

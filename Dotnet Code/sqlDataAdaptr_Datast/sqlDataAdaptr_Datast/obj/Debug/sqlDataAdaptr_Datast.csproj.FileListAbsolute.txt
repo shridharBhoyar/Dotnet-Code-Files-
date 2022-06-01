@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\sqlDataAdaptr_Datast\sqlDataAdaptr_Datast\bin\Debug\sqlDataAdaptr_Datast.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\sqlDataAdaptr_Datast\sqlDataAdaptr_Datast\bin\Debug\sqlDataAdaptr_Datast.exe
+c:\users\admin\documents\visual studio 2013\Projects\sqlDataAdaptr_Datast\sqlDataAdaptr_Datast\bin\Debug\sqlDataAdaptr_Datast.pdb
+c:\users\admin\documents\visual studio 2013\Projects\sqlDataAdaptr_Datast\sqlDataAdaptr_Datast\obj\Debug\sqlDataAdaptr_Datast.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\sqlDataAdaptr_Datast\sqlDataAdaptr_Datast\obj\Debug\sqlDataAdaptr_Datast.exe
+c:\users\admin\documents\visual studio 2013\Projects\sqlDataAdaptr_Datast\sqlDataAdaptr_Datast\obj\Debug\sqlDataAdaptr_Datast.pdb

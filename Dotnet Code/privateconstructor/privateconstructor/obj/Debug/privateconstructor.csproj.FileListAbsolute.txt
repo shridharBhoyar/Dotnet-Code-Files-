@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\privateconstructor\privateconstructor\bin\Debug\privateconstructor.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\privateconstructor\privateconstructor\obj\Debug\privateconstructor.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\privateconstructor\privateconstructor\bin\Debug\privateconstructor.exe
+c:\users\admin\documents\visual studio 2013\Projects\privateconstructor\privateconstructor\bin\Debug\privateconstructor.pdb
+c:\users\admin\documents\visual studio 2013\Projects\privateconstructor\privateconstructor\obj\Debug\privateconstructor.exe
+c:\users\admin\documents\visual studio 2013\Projects\privateconstructor\privateconstructor\obj\Debug\privateconstructor.pdb

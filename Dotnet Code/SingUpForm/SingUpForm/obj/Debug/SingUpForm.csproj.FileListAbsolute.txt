@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\SingUpForm\SingUpForm\bin\SingUpForm.dll.config
+c:\users\admin\documents\visual studio 2013\Projects\SingUpForm\SingUpForm\bin\SingUpForm.dll
+c:\users\admin\documents\visual studio 2013\Projects\SingUpForm\SingUpForm\bin\SingUpForm.pdb
+c:\users\admin\documents\visual studio 2013\Projects\SingUpForm\SingUpForm\obj\Debug\SingUpForm.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\SingUpForm\SingUpForm\obj\Debug\SingUpForm.dll
+c:\users\admin\documents\visual studio 2013\Projects\SingUpForm\SingUpForm\obj\Debug\SingUpForm.pdb

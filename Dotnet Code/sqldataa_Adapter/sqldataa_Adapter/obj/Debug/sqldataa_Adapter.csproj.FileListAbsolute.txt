@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\sqldataa_Adapter\sqldataa_Adapter\bin\Debug\sqldataa_Adapter.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\sqldataa_Adapter\sqldataa_Adapter\bin\Debug\sqldataa_Adapter.exe
+c:\users\admin\documents\visual studio 2013\Projects\sqldataa_Adapter\sqldataa_Adapter\bin\Debug\sqldataa_Adapter.pdb
+c:\users\admin\documents\visual studio 2013\Projects\sqldataa_Adapter\sqldataa_Adapter\obj\Debug\sqldataa_Adapter.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\sqldataa_Adapter\sqldataa_Adapter\obj\Debug\sqldataa_Adapter.exe
+c:\users\admin\documents\visual studio 2013\Projects\sqldataa_Adapter\sqldataa_Adapter\obj\Debug\sqldataa_Adapter.pdb

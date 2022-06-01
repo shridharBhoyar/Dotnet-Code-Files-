@@ -1,0 +1,13 @@
+c:\users\admin\documents\visual studio 2013\Projects\Entityframwork\Entityframwork\bin\Debug\Entityframwork.exe.config
+C:\Users\Admin\documents\visual studio 2013\Projects\Entityframwork\Entityframwork\bin\Debug\Entityframwork.exe
+C:\Users\Admin\documents\visual studio 2013\Projects\Entityframwork\Entityframwork\bin\Debug\Entityframwork.pdb
+C:\Users\Admin\documents\visual studio 2013\Projects\Entityframwork\Entityframwork\bin\Debug\EntityFramework.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\Entityframwork\Entityframwork\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\Entityframwork\Entityframwork\bin\Debug\EntityFramework.xml
+C:\Users\Admin\documents\visual studio 2013\Projects\Entityframwork\Entityframwork\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\documents\visual studio 2013\Projects\Entityframwork\Entityframwork\obj\Debug\Entityframwork.csprojResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2013\Projects\Entityframwork\Entityframwork\obj\Debug\Entityframwork.Form1.resources
+C:\Users\Admin\documents\visual studio 2013\Projects\Entityframwork\Entityframwork\obj\Debug\Entityframwork.Properties.Resources.resources
+C:\Users\Admin\documents\visual studio 2013\Projects\Entityframwork\Entityframwork\obj\Debug\Entityframwork.csproj.GenerateResource.Cache
+C:\Users\Admin\documents\visual studio 2013\Projects\Entityframwork\Entityframwork\obj\Debug\Entityframwork.exe
+C:\Users\Admin\documents\visual studio 2013\Projects\Entityframwork\Entityframwork\obj\Debug\Entityframwork.pdb

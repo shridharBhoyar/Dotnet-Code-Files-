@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2013\Projects\Abstract_Class\Abstract_Class\bin\Debug\Abstract_Class.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Abstract_Class\Abstract_Class\bin\Debug\Abstract_Class.exe
+c:\users\admin\documents\visual studio 2013\Projects\Abstract_Class\Abstract_Class\bin\Debug\Abstract_Class.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Abstract_Class\Abstract_Class\obj\Debug\Abstract_Class.exe
+c:\users\admin\documents\visual studio 2013\Projects\Abstract_Class\Abstract_Class\obj\Debug\Abstract_Class.pdb

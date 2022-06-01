@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2013\Projects\Text_lable_button\Text_lable_button\bin\Debug\Text_lable_button.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Text_lable_button\Text_lable_button\bin\Debug\Text_lable_button.exe
+c:\users\admin\documents\visual studio 2013\Projects\Text_lable_button\Text_lable_button\bin\Debug\Text_lable_button.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Text_lable_button\Text_lable_button\obj\Debug\Text_lable_button.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Text_lable_button\Text_lable_button\obj\Debug\Text_lable_button.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\Text_lable_button\Text_lable_button\obj\Debug\Text_lable_button.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Text_lable_button\Text_lable_button\obj\Debug\Text_lable_button.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Text_lable_button\Text_lable_button\obj\Debug\Text_lable_button.exe
+c:\users\admin\documents\visual studio 2013\Projects\Text_lable_button\Text_lable_button\obj\Debug\Text_lable_button.pdb

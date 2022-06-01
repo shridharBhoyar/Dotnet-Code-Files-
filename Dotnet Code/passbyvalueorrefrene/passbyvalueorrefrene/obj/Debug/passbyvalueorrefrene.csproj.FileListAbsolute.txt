@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\passbyvalueorrefrene\passbyvalueorrefrene\bin\Debug\passbyvalueorrefrene.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\passbyvalueorrefrene\passbyvalueorrefrene\bin\Debug\passbyvalueorrefrene.exe
+c:\users\admin\documents\visual studio 2013\Projects\passbyvalueorrefrene\passbyvalueorrefrene\bin\Debug\passbyvalueorrefrene.pdb
+c:\users\admin\documents\visual studio 2013\Projects\passbyvalueorrefrene\passbyvalueorrefrene\obj\Debug\passbyvalueorrefrene.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\passbyvalueorrefrene\passbyvalueorrefrene\obj\Debug\passbyvalueorrefrene.exe
+c:\users\admin\documents\visual studio 2013\Projects\passbyvalueorrefrene\passbyvalueorrefrene\obj\Debug\passbyvalueorrefrene.pdb

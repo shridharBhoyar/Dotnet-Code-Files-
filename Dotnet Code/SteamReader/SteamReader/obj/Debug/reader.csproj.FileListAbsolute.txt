@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\SteamReader\SteamReader\bin\Debug\SteamReader.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\SteamReader\SteamReader\bin\Debug\SteamReader.exe
+c:\users\admin\documents\visual studio 2013\Projects\SteamReader\SteamReader\bin\Debug\SteamReader.pdb
+c:\users\admin\documents\visual studio 2013\Projects\SteamReader\SteamReader\obj\Debug\reader.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\SteamReader\SteamReader\obj\Debug\SteamReader.exe
+c:\users\admin\documents\visual studio 2013\Projects\SteamReader\SteamReader\obj\Debug\SteamReader.pdb

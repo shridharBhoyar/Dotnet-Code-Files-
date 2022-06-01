@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\IEnurable_Linq\IEnurable_Linq\bin\Debug\IEnurable_Linq.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\IEnurable_Linq\IEnurable_Linq\bin\Debug\IEnurable_Linq.exe
+c:\users\admin\documents\visual studio 2013\Projects\IEnurable_Linq\IEnurable_Linq\bin\Debug\IEnurable_Linq.pdb
+c:\users\admin\documents\visual studio 2013\Projects\IEnurable_Linq\IEnurable_Linq\obj\Debug\IEnurable_Linq.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\IEnurable_Linq\IEnurable_Linq\obj\Debug\IEnurable_Linq.exe
+c:\users\admin\documents\visual studio 2013\Projects\IEnurable_Linq\IEnurable_Linq\obj\Debug\IEnurable_Linq.pdb

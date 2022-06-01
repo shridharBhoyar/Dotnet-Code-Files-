@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\ArrayList_Collection\ArrayList_Collection\bin\Debug\ArrayList_Collection.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\ArrayList_Collection\ArrayList_Collection\bin\Debug\ArrayList_Collection.exe
+c:\users\admin\documents\visual studio 2013\Projects\ArrayList_Collection\ArrayList_Collection\bin\Debug\ArrayList_Collection.pdb
+c:\users\admin\documents\visual studio 2013\Projects\ArrayList_Collection\ArrayList_Collection\obj\Debug\ArrayList_Collection.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\ArrayList_Collection\ArrayList_Collection\obj\Debug\ArrayList_Collection.exe
+c:\users\admin\documents\visual studio 2013\Projects\ArrayList_Collection\ArrayList_Collection\obj\Debug\ArrayList_Collection.pdb

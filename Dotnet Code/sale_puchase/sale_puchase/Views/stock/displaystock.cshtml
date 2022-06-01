@@ -1,0 +1,61 @@
+﻿@model IEnumerable< sale_puchase.Models.stock>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>displaystock</title>
+</head>
+<body>
+    <div> 
+        <table>
+            <tr>
+                <th>
+                    @Html.Label("Poduct Name")
+                </th>
+                <th>
+                    @Html.Label("Poduct Quantity")
+                </th>
+                <th>
+                    @Html.Label("Product Price")
+                </th>
+            </tr>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(x => item.stock_pd_name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(x=>item.stock_pd_quantity)
+                    </td>
+                    <td>
+                        td>
+                        @Html.DisplayFor(x => item.stock_pd_price)
+                    </td>
+                    
+             </tr>
+ 
+                
+            }
+         
+
+           
+
+
+        </table>
+          
+        
+            
+        <div class="form-group">
+            @Html.ActionLink("Back to Purchase", "purchase", "", new { @class ="btn btn-danger" })
+
+        </div>
+      
+    </div>
+</body>
+</html>

@@ -1,0 +1,33 @@
+﻿
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+         @{
+             Html.BeginForm("Index","Home");
+         }
+
+
+        @Html.Label("User Name") &nbsp; @Html.TextBox("usrname", "", new { @class = "form-control" })<br />
+        @Html.Label("Password") &nbsp;  @Html.Password("password", "", new { @class="form-control"})<br />
+        @Html.Label("Male")  &nbsp;  @Html.RadioButton("gender", "Male",true) 
+        @Html.Label("Female") &nbsp;  @Html.RadioButton("gender", "Female")<br />
+        @Html.Label("Contry")  &nbsp;  @Html.DropDownList("contyry", new SelectList(new[] { "IND", "PAK", "UK" }), "CHOOSE",  new { @class = "form-control" })
+        @Html.Label("comment") &nbsp;  @Html.TextArea("comment", "", new {@class="form-control" })
+        <br />
+        @Html.Label("Agree") &nbsp;  @Html.CheckBox("chosse",true)
+          <br /> <input type="submit" value="submit" class="btn btn-info"  } />
+
+ 
+ @{
+     Html.EndForm();
+ }
+     
+    </div>
+</body>
+</html>

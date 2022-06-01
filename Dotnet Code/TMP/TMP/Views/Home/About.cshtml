@@ -1,0 +1,11 @@
+﻿@TempData["msg"]
+
+<ul>
+    @{ foreach (var item in (string[])TempData["aa"])
+     {
+        <li>@item</li>
+     }
+
+    }
+</ul>
+

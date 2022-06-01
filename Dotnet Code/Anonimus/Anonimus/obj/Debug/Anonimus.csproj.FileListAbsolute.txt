@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\Anonimus\Anonimus\bin\Debug\Anonimus.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Anonimus\Anonimus\bin\Debug\Anonimus.exe
+c:\users\admin\documents\visual studio 2013\Projects\Anonimus\Anonimus\bin\Debug\Anonimus.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Anonimus\Anonimus\obj\Debug\Anonimus.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Anonimus\Anonimus\obj\Debug\Anonimus.exe
+c:\users\admin\documents\visual studio 2013\Projects\Anonimus\Anonimus\obj\Debug\Anonimus.pdb

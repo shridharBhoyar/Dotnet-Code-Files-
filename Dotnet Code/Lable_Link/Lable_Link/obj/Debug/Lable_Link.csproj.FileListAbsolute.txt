@@ -1,0 +1,10 @@
+c:\users\admin\documents\visual studio 2013\Projects\Lable_Link\Lable_Link\bin\Debug\Lable_Link.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Lable_Link\Lable_Link\obj\Debug\Lable_Link.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Lable_Link\Lable_Link\obj\Debug\Lable_Link.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\Lable_Link\Lable_Link\obj\Debug\Lable_Link.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Lable_Link\Lable_Link\obj\Debug\Lable_Link.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Lable_Link\Lable_Link\bin\Debug\Lable_Link.exe
+c:\users\admin\documents\visual studio 2013\Projects\Lable_Link\Lable_Link\bin\Debug\Lable_Link.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Lable_Link\Lable_Link\obj\Debug\Lable_Link.exe
+c:\users\admin\documents\visual studio 2013\Projects\Lable_Link\Lable_Link\obj\Debug\Lable_Link.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Lable_Link\Lable_Link\obj\Debug\Lable_Link.Form2.resources

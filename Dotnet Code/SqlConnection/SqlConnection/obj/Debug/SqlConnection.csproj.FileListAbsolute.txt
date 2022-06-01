@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\SqlConnection\SqlConnection\bin\Debug\SqlConnection.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\SqlConnection\SqlConnection\obj\Debug\SqlConnection.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\SqlConnection\SqlConnection\bin\Debug\SqlConnection.exe
+c:\users\admin\documents\visual studio 2013\Projects\SqlConnection\SqlConnection\bin\Debug\SqlConnection.pdb
+c:\users\admin\documents\visual studio 2013\Projects\SqlConnection\SqlConnection\obj\Debug\SqlConnection.exe
+c:\users\admin\documents\visual studio 2013\Projects\SqlConnection\SqlConnection\obj\Debug\SqlConnection.pdb

@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2013\Projects\DateTime_With_Database\DateTime_With_Database\bin\Debug\DateTime_With_Database.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\DateTime_With_Database\DateTime_With_Database\bin\Debug\DateTime_With_Database.exe
+c:\users\admin\documents\visual studio 2013\Projects\DateTime_With_Database\DateTime_With_Database\bin\Debug\DateTime_With_Database.pdb
+c:\users\admin\documents\visual studio 2013\Projects\DateTime_With_Database\DateTime_With_Database\obj\Debug\DateTime_With_Database.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\DateTime_With_Database\DateTime_With_Database\obj\Debug\DateTime_With_Database.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\DateTime_With_Database\DateTime_With_Database\obj\Debug\DateTime_With_Database.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\DateTime_With_Database\DateTime_With_Database\obj\Debug\DateTime_With_Database.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\DateTime_With_Database\DateTime_With_Database\obj\Debug\DateTime_With_Database.exe
+c:\users\admin\documents\visual studio 2013\Projects\DateTime_With_Database\DateTime_With_Database\obj\Debug\DateTime_With_Database.pdb

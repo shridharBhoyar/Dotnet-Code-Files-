@@ -1,0 +1,43 @@
+﻿@model sale_puchase.Models.sale1
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>seleproduct</title>
+</head>
+<body>
+    <div> 
+
+
+        @using (Html.BeginForm())
+        {
+            @Html.Label("product name")
+
+            @Html.TextBoxFor(x => x.sale_pd_name)
+
+            <br />
+            @Html.Label("product Quantity")
+
+            @Html.TextBoxFor(x => x.sale_pd_quantity)
+
+            <br />
+            @Html.Label("Product Price")
+
+            @Html.TextBoxFor(x => x.sale_pd_price)
+            <br />
+
+            <input type="submit" value="Purchase" class="btn btn-danger" />
+
+
+        }
+        @Html.ActionLink("stock", "displaystock", "stock");
+        <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+
+    </div>
+</body>
+</html>

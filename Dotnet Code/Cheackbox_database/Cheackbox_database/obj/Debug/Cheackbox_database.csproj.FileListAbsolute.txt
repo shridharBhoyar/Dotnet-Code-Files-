@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2013\Projects\Cheackbox_database\Cheackbox_database\bin\Debug\Cheackbox_database.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Cheackbox_database\Cheackbox_database\bin\Debug\Cheackbox_database.exe
+c:\users\admin\documents\visual studio 2013\Projects\Cheackbox_database\Cheackbox_database\bin\Debug\Cheackbox_database.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Cheackbox_database\Cheackbox_database\obj\Debug\Cheackbox_database.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Cheackbox_database\Cheackbox_database\obj\Debug\Cheackbox_database.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\Cheackbox_database\Cheackbox_database\obj\Debug\Cheackbox_database.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Cheackbox_database\Cheackbox_database\obj\Debug\Cheackbox_database.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Cheackbox_database\Cheackbox_database\obj\Debug\Cheackbox_database.exe
+c:\users\admin\documents\visual studio 2013\Projects\Cheackbox_database\Cheackbox_database\obj\Debug\Cheackbox_database.pdb

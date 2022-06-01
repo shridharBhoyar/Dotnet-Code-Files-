@@ -1,0 +1,2 @@
+c:\users\admin\documents\visual studio 2013\Projects\Oprator_Ovrloading\Oprator_Ovrloading\bin\Debug\Oprator_Ovrloading.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Oprator_Ovrloading\Oprator_Ovrloading\obj\Debug\Oprator_Ovrloading.csprojResolveAssemblyReference.cache

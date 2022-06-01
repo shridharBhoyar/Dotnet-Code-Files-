@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2013\Projects\Copy_File_Filehandling\Copy_File_Filehandling\bin\Debug\Copy_File_Filehandling.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Copy_File_Filehandling\Copy_File_Filehandling\bin\Debug\Copy_File_Filehandling.exe
+c:\users\admin\documents\visual studio 2013\Projects\Copy_File_Filehandling\Copy_File_Filehandling\bin\Debug\Copy_File_Filehandling.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Copy_File_Filehandling\Copy_File_Filehandling\obj\Debug\Copy_File_Filehandling.exe
+c:\users\admin\documents\visual studio 2013\Projects\Copy_File_Filehandling\Copy_File_Filehandling\obj\Debug\Copy_File_Filehandling.pdb

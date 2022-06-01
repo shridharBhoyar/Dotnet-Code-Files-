@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\menubar\menubar\bin\menubar.dll.config
+c:\users\admin\documents\visual studio 2013\Projects\menubar\menubar\bin\menubar.dll
+c:\users\admin\documents\visual studio 2013\Projects\menubar\menubar\bin\menubar.pdb
+c:\users\admin\documents\visual studio 2013\Projects\menubar\menubar\obj\Debug\menubar.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\menubar\menubar\obj\Debug\menubar.dll
+c:\users\admin\documents\visual studio 2013\Projects\menubar\menubar\obj\Debug\menubar.pdb

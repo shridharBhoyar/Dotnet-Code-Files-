@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\aspfooter\aspfooter\bin\aspfooter.dll.config
+c:\users\admin\documents\visual studio 2013\Projects\aspfooter\aspfooter\bin\aspfooter.dll
+c:\users\admin\documents\visual studio 2013\Projects\aspfooter\aspfooter\bin\aspfooter.pdb
+c:\users\admin\documents\visual studio 2013\Projects\aspfooter\aspfooter\obj\Debug\aspfooter.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\aspfooter\aspfooter\obj\Debug\aspfooter.dll
+c:\users\admin\documents\visual studio 2013\Projects\aspfooter\aspfooter\obj\Debug\aspfooter.pdb

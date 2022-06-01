@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2013\Projects\Email_Send\Email_Send\bin\Debug\Email_Send.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Email_Send\Email_Send\bin\Debug\Email_Send.exe
+c:\users\admin\documents\visual studio 2013\Projects\Email_Send\Email_Send\bin\Debug\Email_Send.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Email_Send\Email_Send\obj\Debug\Email_Send.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Email_Send\Email_Send\obj\Debug\Email_Send.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\Email_Send\Email_Send\obj\Debug\Email_Send.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Email_Send\Email_Send\obj\Debug\Email_Send.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Email_Send\Email_Send\obj\Debug\Email_Send.exe
+c:\users\admin\documents\visual studio 2013\Projects\Email_Send\Email_Send\obj\Debug\Email_Send.pdb

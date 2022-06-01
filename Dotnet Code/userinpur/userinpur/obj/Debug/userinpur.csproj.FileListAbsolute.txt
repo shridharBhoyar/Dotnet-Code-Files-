@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2013\Projects\userinpur\userinpur\bin\Debug\userinpur.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\userinpur\userinpur\bin\Debug\userinpur.exe
+c:\users\admin\documents\visual studio 2013\Projects\userinpur\userinpur\bin\Debug\userinpur.pdb
+c:\users\admin\documents\visual studio 2013\Projects\userinpur\userinpur\obj\Debug\userinpur.exe
+c:\users\admin\documents\visual studio 2013\Projects\userinpur\userinpur\obj\Debug\userinpur.pdb

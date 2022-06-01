@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="projectModelStoreContainer" CdmEntityContainer="projectEntities">
+    <EntitySetMapping Name="Purchases">
+      <EntityTypeMapping TypeName="projectModel.Purchase">
+        <MappingFragment StoreEntitySet="Purchase">
+          <ScalarProperty Name="Produc_id" ColumnName="Produc_id" />
+          <ScalarProperty Name="Product_Name" ColumnName="Product_Name" />
+          <ScalarProperty Name="Produc_Quantity" ColumnName="Produc_Quantity" />
+          <ScalarProperty Name="Produc_Price" ColumnName="Produc_Price" />
+          <ScalarProperty Name="Produc_Date" ColumnName="Produc_Date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="saleProducts">
+      <EntityTypeMapping TypeName="projectModel.saleProduct">
+        <MappingFragment StoreEntitySet="saleProduct">
+          <ScalarProperty Name="SaleProduct_id" ColumnName="SaleProduct_id" />
+          <ScalarProperty Name="Customer_Name" ColumnName="Customer_Name" />
+          <ScalarProperty Name="Gender" ColumnName="Gender" />
+          <ScalarProperty Name="Customer_Mobile_No" ColumnName="Customer_Mobile_No" />
+          <ScalarProperty Name="Customer_Address" ColumnName="Customer_Address" />
+          <ScalarProperty Name="SaleProduct_Name" ColumnName="SaleProduct_Name" />
+          <ScalarProperty Name="SaleProduct_Quantity" ColumnName="SaleProduct_Quantity" />
+          <ScalarProperty Name="SaleProduct_Price" ColumnName="SaleProduct_Price" />
+          <ScalarProperty Name="SaleProduct_Date" ColumnName="SaleProduct_Date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Stocks">
+      <EntityTypeMapping TypeName="projectModel.Stock">
+        <MappingFragment StoreEntitySet="Stock">
+          <ScalarProperty Name="Produc_id" ColumnName="Produc_id" />
+          <ScalarProperty Name="Product_Name" ColumnName="Product_Name" />
+          <ScalarProperty Name="Produc_Quantity" ColumnName="Produc_Quantity" />
+          <ScalarProperty Name="Produc_Price" ColumnName="Produc_Price" />
+          <ScalarProperty Name="Produc_Date" ColumnName="Produc_Date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

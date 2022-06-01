@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\datetime\datetime\bin\Debug\datetime.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\datetime\datetime\bin\Debug\datetime.exe
+c:\users\admin\documents\visual studio 2013\Projects\datetime\datetime\bin\Debug\datetime.pdb
+c:\users\admin\documents\visual studio 2013\Projects\datetime\datetime\obj\Debug\datetime.exe
+c:\users\admin\documents\visual studio 2013\Projects\datetime\datetime\obj\Debug\datetime.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\datetime\datetime\obj\Debug\datetime.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2013\Projects\Dictionary_Generic_Collection\Dictionary_Generic_Collection\bin\Debug\Dictionary_Generic_Collection.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Dictionary_Generic_Collection\Dictionary_Generic_Collection\bin\Debug\Dictionary_Generic_Collection.exe
+c:\users\admin\documents\visual studio 2013\Projects\Dictionary_Generic_Collection\Dictionary_Generic_Collection\bin\Debug\Dictionary_Generic_Collection.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Dictionary_Generic_Collection\Dictionary_Generic_Collection\obj\Debug\Dictionary_Generic_Collection.exe
+c:\users\admin\documents\visual studio 2013\Projects\Dictionary_Generic_Collection\Dictionary_Generic_Collection\obj\Debug\Dictionary_Generic_Collection.pdb

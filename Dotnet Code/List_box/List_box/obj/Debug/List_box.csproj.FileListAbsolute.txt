@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2013\Projects\List_box\List_box\bin\Debug\List_box.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\List_box\List_box\bin\Debug\List_box.exe
+c:\users\admin\documents\visual studio 2013\Projects\List_box\List_box\bin\Debug\List_box.pdb
+c:\users\admin\documents\visual studio 2013\Projects\List_box\List_box\obj\Debug\List_box.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\List_box\List_box\obj\Debug\List_box.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\List_box\List_box\obj\Debug\List_box.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\List_box\List_box\obj\Debug\List_box.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\List_box\List_box\obj\Debug\List_box.exe
+c:\users\admin\documents\visual studio 2013\Projects\List_box\List_box\obj\Debug\List_box.pdb

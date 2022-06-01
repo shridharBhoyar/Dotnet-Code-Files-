@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2013\Projects\Calculator_gui\Calculator_gui\bin\Debug\Calculator_gui.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Calculator_gui\Calculator_gui\bin\Debug\Calculator_gui.exe
+c:\users\admin\documents\visual studio 2013\Projects\Calculator_gui\Calculator_gui\bin\Debug\Calculator_gui.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Calculator_gui\Calculator_gui\obj\Debug\Calculator_gui.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Calculator_gui\Calculator_gui\obj\Debug\Calculator_gui.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\Calculator_gui\Calculator_gui\obj\Debug\Calculator_gui.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Calculator_gui\Calculator_gui\obj\Debug\Calculator_gui.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Calculator_gui\Calculator_gui\obj\Debug\Calculator_gui.exe
+c:\users\admin\documents\visual studio 2013\Projects\Calculator_gui\Calculator_gui\obj\Debug\Calculator_gui.pdb

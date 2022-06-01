@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\Generic_Class\Generic_Class\bin\Debug\Generic_Class.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Generic_Class\Generic_Class\bin\Debug\Generic_Class.exe
+c:\users\admin\documents\visual studio 2013\Projects\Generic_Class\Generic_Class\bin\Debug\Generic_Class.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Generic_Class\Generic_Class\obj\Debug\Generic_Class.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Generic_Class\Generic_Class\obj\Debug\Generic_Class.exe
+c:\users\admin\documents\visual studio 2013\Projects\Generic_Class\Generic_Class\obj\Debug\Generic_Class.pdb

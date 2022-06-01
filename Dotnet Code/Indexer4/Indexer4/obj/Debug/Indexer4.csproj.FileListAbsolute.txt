@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\Indexer4\Indexer4\bin\Debug\Indexer4.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Indexer4\Indexer4\bin\Debug\Indexer4.exe
+c:\users\admin\documents\visual studio 2013\Projects\Indexer4\Indexer4\bin\Debug\Indexer4.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Indexer4\Indexer4\obj\Debug\Indexer4.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Indexer4\Indexer4\obj\Debug\Indexer4.exe
+c:\users\admin\documents\visual studio 2013\Projects\Indexer4\Indexer4\obj\Debug\Indexer4.pdb

@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2013\Projects\Try_Catch_Finally_Exception\Try_Catch_Finally_Exception\bin\Debug\Try_Catch_Finally_Exception.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Try_Catch_Finally_Exception\Try_Catch_Finally_Exception\bin\Debug\Try_Catch_Finally_Exception.exe
+c:\users\admin\documents\visual studio 2013\Projects\Try_Catch_Finally_Exception\Try_Catch_Finally_Exception\bin\Debug\Try_Catch_Finally_Exception.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Try_Catch_Finally_Exception\Try_Catch_Finally_Exception\obj\Debug\Try_Catch_Finally_Exception.exe
+c:\users\admin\documents\visual studio 2013\Projects\Try_Catch_Finally_Exception\Try_Catch_Finally_Exception\obj\Debug\Try_Catch_Finally_Exception.pdb

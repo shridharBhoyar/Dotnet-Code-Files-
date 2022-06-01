@@ -1,0 +1,47 @@
+﻿
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div> @Html.ViewData["messag"]
+ 
+        <ul>
+            @{
+                foreach (string item in (string[])ViewData["fruit"])
+                {
+                   <li>@item</li> 
+                }
+            }
+        </ul> 
+
+    </div>
+
+    <div>
+        <ul>
+        @{
+            foreach (string item in (List<string>)ViewData["list"])
+            {
+                <li>@item</li>
+            }
+        }
+        </ul>
+
+    </div>
+    
+
+    <div>
+        @{
+            var m = (D_V.Models.Employee)ViewData["emp"];
+        }  
+ <p>@m.id</p>
+ <p>@m.name</p>
+ <p>@m.age</p> 
+
+    </div>
+</body>
+</html>

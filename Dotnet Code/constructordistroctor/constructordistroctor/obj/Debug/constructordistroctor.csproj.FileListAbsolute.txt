@@ -1,0 +1,2 @@
+c:\users\admin\documents\visual studio 2013\Projects\constructordistroctor\constructordistroctor\bin\Debug\constructordistroctor.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\constructordistroctor\constructordistroctor\obj\Debug\constructordistroctor.csprojResolveAssemblyReference.cache

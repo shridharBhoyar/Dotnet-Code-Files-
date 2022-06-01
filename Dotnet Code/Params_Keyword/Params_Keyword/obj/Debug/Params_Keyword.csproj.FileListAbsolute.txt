@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\Params_Keyword\Params_Keyword\bin\Debug\Params_Keyword.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Params_Keyword\Params_Keyword\bin\Debug\Params_Keyword.exe
+c:\users\admin\documents\visual studio 2013\Projects\Params_Keyword\Params_Keyword\bin\Debug\Params_Keyword.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Params_Keyword\Params_Keyword\obj\Debug\Params_Keyword.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Params_Keyword\Params_Keyword\obj\Debug\Params_Keyword.exe
+c:\users\admin\documents\visual studio 2013\Projects\Params_Keyword\Params_Keyword\obj\Debug\Params_Keyword.pdb

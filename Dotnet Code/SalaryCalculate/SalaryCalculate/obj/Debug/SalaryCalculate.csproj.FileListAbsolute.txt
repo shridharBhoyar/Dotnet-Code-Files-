@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2013\Projects\SalaryCalculate\SalaryCalculate\bin\Debug\SalaryCalculate.exe.config
+C:\Users\Admin\documents\visual studio 2013\Projects\SalaryCalculate\SalaryCalculate\bin\Debug\SalaryCalculate.exe
+C:\Users\Admin\documents\visual studio 2013\Projects\SalaryCalculate\SalaryCalculate\bin\Debug\SalaryCalculate.pdb
+C:\Users\Admin\documents\visual studio 2013\Projects\SalaryCalculate\SalaryCalculate\obj\Debug\SalaryCalculate.csprojResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2013\Projects\SalaryCalculate\SalaryCalculate\obj\Debug\SalaryCalculate.Properties.Resources.resources
+C:\Users\Admin\documents\visual studio 2013\Projects\SalaryCalculate\SalaryCalculate\obj\Debug\SalaryCalculate.csproj.GenerateResource.Cache
+C:\Users\Admin\documents\visual studio 2013\Projects\SalaryCalculate\SalaryCalculate\obj\Debug\SalaryCalculate.exe
+C:\Users\Admin\documents\visual studio 2013\Projects\SalaryCalculate\SalaryCalculate\obj\Debug\SalaryCalculate.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\SalaryCalculate\SalaryCalculate\obj\Debug\SalaryCalculate.jivan.resources

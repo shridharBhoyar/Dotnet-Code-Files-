@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2013\Projects\DatagridSumtableid\DatagridSumtableid\bin\Debug\DatagridSumtableid.exe.config
+C:\Users\Admin\documents\visual studio 2013\Projects\DatagridSumtableid\DatagridSumtableid\bin\Debug\DatagridSumtableid.exe
+C:\Users\Admin\documents\visual studio 2013\Projects\DatagridSumtableid\DatagridSumtableid\bin\Debug\DatagridSumtableid.pdb
+C:\Users\Admin\documents\visual studio 2013\Projects\DatagridSumtableid\DatagridSumtableid\obj\Debug\DatagridSumtableid.csprojResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2013\Projects\DatagridSumtableid\DatagridSumtableid\obj\Debug\DatagridSumtableid.Form1.resources
+C:\Users\Admin\documents\visual studio 2013\Projects\DatagridSumtableid\DatagridSumtableid\obj\Debug\DatagridSumtableid.Properties.Resources.resources
+C:\Users\Admin\documents\visual studio 2013\Projects\DatagridSumtableid\DatagridSumtableid\obj\Debug\DatagridSumtableid.csproj.GenerateResource.Cache
+C:\Users\Admin\documents\visual studio 2013\Projects\DatagridSumtableid\DatagridSumtableid\obj\Debug\DatagridSumtableid.exe
+C:\Users\Admin\documents\visual studio 2013\Projects\DatagridSumtableid\DatagridSumtableid\obj\Debug\DatagridSumtableid.pdb

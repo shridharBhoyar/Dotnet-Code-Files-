@@ -1,0 +1,13 @@
+c:\users\admin\documents\visual studio 2013\Projects\login\login\bin\Debug\login.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\login\login\bin\Debug\login.exe
+c:\users\admin\documents\visual studio 2013\Projects\login\login\bin\Debug\login.pdb
+c:\users\admin\documents\visual studio 2013\Projects\login\login\obj\Debug\login.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\login\login\obj\Debug\MainWindow.baml
+c:\users\admin\documents\visual studio 2013\Projects\login\login\obj\Debug\MainWindow.g.cs
+c:\users\admin\documents\visual studio 2013\Projects\login\login\obj\Debug\App.g.cs
+c:\users\admin\documents\visual studio 2013\Projects\login\login\obj\Debug\login_MarkupCompile.cache
+c:\users\admin\documents\visual studio 2013\Projects\login\login\obj\Debug\login.g.resources
+c:\users\admin\documents\visual studio 2013\Projects\login\login\obj\Debug\login.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\login\login\obj\Debug\login.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\login\login\obj\Debug\login.exe
+c:\users\admin\documents\visual studio 2013\Projects\login\login\obj\Debug\login.pdb

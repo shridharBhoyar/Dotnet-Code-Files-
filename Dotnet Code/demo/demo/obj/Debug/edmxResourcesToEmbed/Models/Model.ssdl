@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="practiceModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'practice.dbo.employee_tbl' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="employee_tbl">
+    <Key>
+      <PropertyRef Name="emp_id" />
+      <PropertyRef Name="emp_name" />
+      <PropertyRef Name="email" />
+      <PropertyRef Name="degignation" />
+    </Key>
+    <Property Name="emp_id" Type="int" Nullable="false" />
+    <Property Name="emp_name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="email" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="degignation" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="practiceModelStoreContainer">
+    <EntitySet Name="employee_tbl" EntityType="Self.employee_tbl" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [employee_tbl].[emp_id] AS [emp_id], 
+    [employee_tbl].[emp_name] AS [emp_name], 
+    [employee_tbl].[email] AS [email], 
+    [employee_tbl].[degignation] AS [degignation]
+    FROM [dbo].[employee_tbl] AS [employee_tbl]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,305 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E76C031B-D393-4466-9DDC-DC68C84B673B}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>My_ASP_Project</RootNamespace>
+    <AssemblyName>My_ASP_Project</AssemblyName>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="assetss\vendor\bootstrap-icons\bootstrap-icons.css" />
+    <Content Include="assetss\vendor\bootstrap-icons\index.html" />
+    <Content Include="assetss\vendor\bootstrap\css\bootstrap-grid.css" />
+    <Content Include="assetss\vendor\bootstrap\css\bootstrap-grid.min.css" />
+    <Content Include="assetss\vendor\bootstrap\css\bootstrap-grid.rtl.css" />
+    <Content Include="assetss\vendor\bootstrap\css\bootstrap-grid.rtl.min.css" />
+    <Content Include="assetss\vendor\bootstrap\css\bootstrap-reboot.css" />
+    <Content Include="assetss\vendor\bootstrap\css\bootstrap-reboot.min.css" />
+    <Content Include="assetss\vendor\bootstrap\css\bootstrap-reboot.rtl.css" />
+    <Content Include="assetss\vendor\bootstrap\css\bootstrap-reboot.rtl.min.css" />
+    <Content Include="assetss\vendor\bootstrap\css\bootstrap-utilities.css" />
+    <Content Include="assetss\vendor\bootstrap\css\bootstrap-utilities.min.css" />
+    <Content Include="assetss\vendor\bootstrap\css\bootstrap-utilities.rtl.css" />
+    <Content Include="assetss\vendor\bootstrap\css\bootstrap-utilities.rtl.min.css" />
+    <Content Include="assetss\vendor\bootstrap\css\bootstrap.css" />
+    <Content Include="assetss\vendor\bootstrap\css\bootstrap.min.css" />
+    <Content Include="assetss\vendor\bootstrap\css\bootstrap.rtl.css" />
+    <Content Include="assetss\vendor\bootstrap\css\bootstrap.rtl.min.css" />
+    <Content Include="assetss\vendor\bootstrap\js\bootstrap.bundle.js" />
+    <Content Include="assetss\vendor\bootstrap\js\bootstrap.bundle.min.js" />
+    <Content Include="assetss\vendor\bootstrap\js\bootstrap.esm.js" />
+    <Content Include="assetss\vendor\bootstrap\js\bootstrap.esm.min.js" />
+    <Content Include="assetss\vendor\bootstrap\js\bootstrap.js" />
+    <Content Include="assetss\vendor\bootstrap\js\bootstrap.min.js" />
+    <Content Include="assetss\vendor\boxicons\css\animations.css" />
+    <Content Include="assetss\vendor\boxicons\css\boxicons.css" />
+    <Content Include="assetss\vendor\boxicons\css\boxicons.min.css" />
+    <Content Include="assetss\vendor\boxicons\css\transformations.css" />
+    <Content Include="assetss\vendor\boxicons\fonts\boxicons.svg" />
+    <Content Include="assetss\vendor\glightbox\css\glightbox.css" />
+    <Content Include="assetss\vendor\glightbox\css\glightbox.min.css" />
+    <Content Include="assetss\vendor\glightbox\js\glightbox.js" />
+    <Content Include="assetss\vendor\glightbox\js\glightbox.min.js" />
+    <Content Include="assetss\vendor\isotope-layout\isotope.pkgd.js" />
+    <Content Include="assetss\vendor\isotope-layout\isotope.pkgd.min.js" />
+    <Content Include="assetss\vendor\php-email-form\validate.js" />
+    <Content Include="assetss\vendor\swiper\swiper-bundle.min.css" />
+    <Content Include="assetss\vendor\swiper\swiper-bundle.min.js" />
+    <Content Include="assetss\vendor\typed.js\typed.js" />
+    <Content Include="assetss\vendor\typed.js\typed.min.js" />
+    <Content Include="assets\css\style.css" />
+    <Content Include="assets\img\apple-touch-icon.png" />
+    <Content Include="assets\img\clients\client-1.png" />
+    <Content Include="assets\img\clients\client-2.png" />
+    <Content Include="assets\img\clients\client-3.png" />
+    <Content Include="assets\img\clients\client-4.png" />
+    <Content Include="assets\img\clients\client-5.png" />
+    <Content Include="assets\img\clients\client-6.png" />
+    <Content Include="assets\img\favicon.png" />
+    <Content Include="assets\img\footer-bg.jpg" />
+    <Content Include="assets\img\hero-bg.jpg" />
+    <Content Include="assets\img\our-values-1.jpg" />
+    <Content Include="assets\img\our-values-2.jpg" />
+    <Content Include="assets\img\our-values-3.jpg" />
+    <Content Include="assets\img\our-values-4.jpg" />
+    <Content Include="assets\img\portfolio\portfolio-1.jpg" />
+    <Content Include="assets\img\portfolio\portfolio-2.jpg" />
+    <Content Include="assets\img\portfolio\portfolio-3.jpg" />
+    <Content Include="assets\img\portfolio\portfolio-4.jpg" />
+    <Content Include="assets\img\portfolio\portfolio-5.jpg" />
+    <Content Include="assets\img\portfolio\portfolio-6.jpg" />
+    <Content Include="assets\img\portfolio\portfolio-7.jpg" />
+    <Content Include="assets\img\portfolio\portfolio-8.jpg" />
+    <Content Include="assets\img\portfolio\portfolio-9.jpg" />
+    <Content Include="assets\img\portfolio\portfolio-details-1.jpg" />
+    <Content Include="assets\img\portfolio\portfolio-details-2.jpg" />
+    <Content Include="assets\img\portfolio\portfolio-details-3.jpg" />
+    <Content Include="assets\img\shri4.jpg" />
+    <Content Include="assets\img\team\team-1.jpg" />
+    <Content Include="assets\img\team\team-2.jpg" />
+    <Content Include="assets\img\team\team-3.jpg" />
+    <Content Include="assets\img\team\team-4.jpg" />
+    <Content Include="assets\img\testimonials\testimonials-1.jpg" />
+    <Content Include="assets\img\testimonials\testimonials-2.jpg" />
+    <Content Include="assets\img\testimonials\testimonials-3.jpg" />
+    <Content Include="assets\img\testimonials\testimonials-4.jpg" />
+    <Content Include="assets\img\testimonials\testimonials-5.jpg" />
+    <Content Include="assets\js\main.js" />
+    <Content Include="assets\vendor\bootstrap-icons\bootstrap-icons.css" />
+    <Content Include="assets\vendor\bootstrap-icons\index.html" />
+    <Content Include="assets\vendor\bootstrap\css\bootstrap-grid.css" />
+    <Content Include="assets\vendor\bootstrap\css\bootstrap-grid.min.css" />
+    <Content Include="assets\vendor\bootstrap\css\bootstrap-grid.rtl.css" />
+    <Content Include="assets\vendor\bootstrap\css\bootstrap-grid.rtl.min.css" />
+    <Content Include="assets\vendor\bootstrap\css\bootstrap-reboot.css" />
+    <Content Include="assets\vendor\bootstrap\css\bootstrap-reboot.min.css" />
+    <Content Include="assets\vendor\bootstrap\css\bootstrap-reboot.rtl.css" />
+    <Content Include="assets\vendor\bootstrap\css\bootstrap-reboot.rtl.min.css" />
+    <Content Include="assets\vendor\bootstrap\css\bootstrap-utilities.css" />
+    <Content Include="assets\vendor\bootstrap\css\bootstrap-utilities.min.css" />
+    <Content Include="assets\vendor\bootstrap\css\bootstrap-utilities.rtl.css" />
+    <Content Include="assets\vendor\bootstrap\css\bootstrap-utilities.rtl.min.css" />
+    <Content Include="assets\vendor\bootstrap\css\bootstrap.css" />
+    <Content Include="assets\vendor\bootstrap\css\bootstrap.min.css" />
+    <Content Include="assets\vendor\bootstrap\css\bootstrap.rtl.css" />
+    <Content Include="assets\vendor\bootstrap\css\bootstrap.rtl.min.css" />
+    <Content Include="assets\vendor\bootstrap\js\bootstrap.bundle.js" />
+    <Content Include="assets\vendor\bootstrap\js\bootstrap.bundle.min.js" />
+    <Content Include="assets\vendor\bootstrap\js\bootstrap.esm.js" />
+    <Content Include="assets\vendor\bootstrap\js\bootstrap.esm.min.js" />
+    <Content Include="assets\vendor\bootstrap\js\bootstrap.js" />
+    <Content Include="assets\vendor\bootstrap\js\bootstrap.min.js" />
+    <Content Include="assets\vendor\boxicons\css\animations.css" />
+    <Content Include="assets\vendor\boxicons\css\boxicons.css" />
+    <Content Include="assets\vendor\boxicons\css\boxicons.min.css" />
+    <Content Include="assets\vendor\boxicons\css\transformations.css" />
+    <Content Include="assets\vendor\boxicons\fonts\boxicons.svg" />
+    <Content Include="assets\vendor\glightbox\css\glightbox.css" />
+    <Content Include="assets\vendor\glightbox\css\glightbox.min.css" />
+    <Content Include="assets\vendor\glightbox\js\glightbox.js" />
+    <Content Include="assets\vendor\glightbox\js\glightbox.min.js" />
+    <Content Include="assets\vendor\isotope-layout\isotope.pkgd.js" />
+    <Content Include="assets\vendor\isotope-layout\isotope.pkgd.min.js" />
+    <Content Include="assets\vendor\php-email-form\validate.js" />
+    <Content Include="assets\vendor\purecounter\purecounter.js" />
+    <Content Include="assets\vendor\remixicon\remixicon.css" />
+    <Content Include="assets\vendor\remixicon\remixicon.svg" />
+    <Content Include="assets\vendor\remixicon\remixicon.symbol.svg" />
+    <Content Include="assets\vendor\swiper\swiper-bundle.min.css" />
+    <Content Include="assets\vendor\swiper\swiper-bundle.min.js" />
+    <Content Include="Common.Master" />
+    <Content Include="assets\vendor\bootstrap-icons\bootstrap-icons.json" />
+    <Content Include="assets\vendor\bootstrap-icons\fonts\bootstrap-icons.woff" />
+    <Content Include="assets\vendor\bootstrap-icons\fonts\bootstrap-icons.woff2" />
+    <Content Include="assets\vendor\bootstrap\css\bootstrap-grid.css.map" />
+    <Content Include="assets\vendor\bootstrap\css\bootstrap-grid.min.css.map" />
+    <Content Include="assets\vendor\bootstrap\css\bootstrap-grid.rtl.css.map" />
+    <Content Include="assets\vendor\bootstrap\css\bootstrap-grid.rtl.min.css.map" />
+    <Content Include="assets\vendor\bootstrap\css\bootstrap-reboot.css.map" />
+    <Content Include="assets\vendor\bootstrap\css\bootstrap-reboot.min.css.map" />
+    <Content Include="assets\vendor\bootstrap\css\bootstrap-reboot.rtl.css.map" />
+    <Content Include="assets\vendor\bootstrap\css\bootstrap-reboot.rtl.min.css.map" />
+    <Content Include="assets\vendor\bootstrap\css\bootstrap-utilities.css.map" />
+    <Content Include="assets\vendor\bootstrap\css\bootstrap-utilities.min.css.map" />
+    <Content Include="assets\vendor\bootstrap\css\bootstrap-utilities.rtl.css.map" />
+    <Content Include="assets\vendor\bootstrap\css\bootstrap-utilities.rtl.min.css.map" />
+    <Content Include="assets\vendor\bootstrap\css\bootstrap.css.map" />
+    <Content Include="assets\vendor\bootstrap\css\bootstrap.min.css.map" />
+    <Content Include="assets\vendor\bootstrap\css\bootstrap.rtl.css.map" />
+    <Content Include="assets\vendor\bootstrap\css\bootstrap.rtl.min.css.map" />
+    <Content Include="assets\vendor\bootstrap\js\bootstrap.bundle.js.map" />
+    <Content Include="assets\vendor\bootstrap\js\bootstrap.bundle.min.js.map" />
+    <Content Include="assets\vendor\bootstrap\js\bootstrap.esm.js.map" />
+    <Content Include="assets\vendor\bootstrap\js\bootstrap.esm.min.js.map" />
+    <Content Include="assets\vendor\bootstrap\js\bootstrap.js.map" />
+    <Content Include="assets\vendor\bootstrap\js\bootstrap.min.js.map" />
+    <Content Include="assets\vendor\boxicons\fonts\boxicons.eot" />
+    <Content Include="assets\vendor\boxicons\fonts\boxicons.ttf" />
+    <Content Include="assets\vendor\boxicons\fonts\boxicons.woff" />
+    <Content Include="assets\vendor\boxicons\fonts\boxicons.woff2" />
+    <Content Include="assets\vendor\remixicon\remixicon.eot" />
+    <Content Include="assets\vendor\remixicon\remixicon.less" />
+    <Content Include="assets\vendor\remixicon\remixicon.ttf" />
+    <Content Include="assets\vendor\remixicon\remixicon.woff" />
+    <Content Include="assets\vendor\remixicon\remixicon.woff2" />
+    <Content Include="assetss\vendor\bootstrap-icons\bootstrap-icons.json" />
+    <Content Include="assetss\vendor\bootstrap-icons\fonts\bootstrap-icons.woff" />
+    <Content Include="assetss\vendor\bootstrap-icons\fonts\bootstrap-icons.woff2" />
+    <Content Include="assetss\vendor\bootstrap\css\bootstrap-grid.css.map" />
+    <Content Include="assetss\vendor\bootstrap\css\bootstrap-grid.min.css.map" />
+    <Content Include="assetss\vendor\bootstrap\css\bootstrap-grid.rtl.css.map" />
+    <Content Include="assetss\vendor\bootstrap\css\bootstrap-grid.rtl.min.css.map" />
+    <Content Include="assetss\vendor\bootstrap\css\bootstrap-reboot.css.map" />
+    <Content Include="assetss\vendor\bootstrap\css\bootstrap-reboot.min.css.map" />
+    <Content Include="assetss\vendor\bootstrap\css\bootstrap-reboot.rtl.css.map" />
+    <Content Include="assetss\vendor\bootstrap\css\bootstrap-reboot.rtl.min.css.map" />
+    <Content Include="assetss\vendor\bootstrap\css\bootstrap-utilities.css.map" />
+    <Content Include="assetss\vendor\bootstrap\css\bootstrap-utilities.min.css.map" />
+    <Content Include="assetss\vendor\bootstrap\css\bootstrap-utilities.rtl.css.map" />
+    <Content Include="assetss\vendor\bootstrap\css\bootstrap-utilities.rtl.min.css.map" />
+    <Content Include="assetss\vendor\bootstrap\css\bootstrap.css.map" />
+    <Content Include="assetss\vendor\bootstrap\css\bootstrap.min.css.map" />
+    <Content Include="assetss\vendor\bootstrap\css\bootstrap.rtl.css.map" />
+    <Content Include="assetss\vendor\bootstrap\css\bootstrap.rtl.min.css.map" />
+    <Content Include="assetss\vendor\bootstrap\js\bootstrap.bundle.js.map" />
+    <Content Include="assetss\vendor\bootstrap\js\bootstrap.bundle.min.js.map" />
+    <Content Include="assetss\vendor\bootstrap\js\bootstrap.esm.js.map" />
+    <Content Include="assetss\vendor\bootstrap\js\bootstrap.esm.min.js.map" />
+    <Content Include="assetss\vendor\bootstrap\js\bootstrap.js.map" />
+    <Content Include="assetss\vendor\bootstrap\js\bootstrap.min.js.map" />
+    <Content Include="assetss\vendor\boxicons\fonts\boxicons.eot" />
+    <Content Include="assetss\vendor\boxicons\fonts\boxicons.ttf" />
+    <Content Include="assetss\vendor\boxicons\fonts\boxicons.woff" />
+    <Content Include="assetss\vendor\boxicons\fonts\boxicons.woff2" />
+    <Content Include="assetss\vendor\typed.js\typed.min.js.map" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="HomePage.aspx" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Common.Master.cs">
+      <DependentUpon>Common.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Common.Master.designer.cs">
+      <DependentUpon>Common.Master</DependentUpon>
+    </Compile>
+    <Compile Include="HomePage.aspx.cs">
+      <DependentUpon>HomePage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HomePage.aspx.designer.cs">
+      <DependentUpon>HomePage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>50691</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:50691/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

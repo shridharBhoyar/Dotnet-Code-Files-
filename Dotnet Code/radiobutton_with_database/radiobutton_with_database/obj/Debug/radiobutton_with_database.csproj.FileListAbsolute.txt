@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2013\Projects\radiobutton_with_database\radiobutton_with_database\bin\Debug\radiobutton_with_database.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\radiobutton_with_database\radiobutton_with_database\bin\Debug\radiobutton_with_database.exe
+c:\users\admin\documents\visual studio 2013\Projects\radiobutton_with_database\radiobutton_with_database\bin\Debug\radiobutton_with_database.pdb
+c:\users\admin\documents\visual studio 2013\Projects\radiobutton_with_database\radiobutton_with_database\obj\Debug\radiobutton_with_database.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\radiobutton_with_database\radiobutton_with_database\obj\Debug\radiobutton_with_database.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\radiobutton_with_database\radiobutton_with_database\obj\Debug\radiobutton_with_database.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\radiobutton_with_database\radiobutton_with_database\obj\Debug\radiobutton_with_database.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\radiobutton_with_database\radiobutton_with_database\obj\Debug\radiobutton_with_database.exe
+c:\users\admin\documents\visual studio 2013\Projects\radiobutton_with_database\radiobutton_with_database\obj\Debug\radiobutton_with_database.pdb

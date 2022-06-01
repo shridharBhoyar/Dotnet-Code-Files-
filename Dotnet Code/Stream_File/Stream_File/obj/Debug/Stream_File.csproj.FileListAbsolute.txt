@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2013\Projects\Stream_File\Stream_File\bin\Debug\Stream_File.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Stream_File\Stream_File\bin\Debug\Stream_File.exe
+c:\users\admin\documents\visual studio 2013\Projects\Stream_File\Stream_File\bin\Debug\Stream_File.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Stream_File\Stream_File\obj\Debug\Stream_File.exe
+c:\users\admin\documents\visual studio 2013\Projects\Stream_File\Stream_File\obj\Debug\Stream_File.pdb

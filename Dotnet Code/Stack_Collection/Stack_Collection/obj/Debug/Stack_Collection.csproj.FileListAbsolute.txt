@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2013\Projects\Stack_Collection\Stack_Collection\bin\Debug\Stack_Collection.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Stack_Collection\Stack_Collection\bin\Debug\Stack_Collection.exe
+c:\users\admin\documents\visual studio 2013\Projects\Stack_Collection\Stack_Collection\bin\Debug\Stack_Collection.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Stack_Collection\Stack_Collection\obj\Debug\Stack_Collection.exe
+c:\users\admin\documents\visual studio 2013\Projects\Stack_Collection\Stack_Collection\obj\Debug\Stack_Collection.pdb

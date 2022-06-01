@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2013\Projects\Error_Provider\Error_Provider\bin\Debug\Error_Provider.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Error_Provider\Error_Provider\bin\Debug\Error_Provider.exe
+c:\users\admin\documents\visual studio 2013\Projects\Error_Provider\Error_Provider\bin\Debug\Error_Provider.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Error_Provider\Error_Provider\obj\Debug\Error_Provider.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\Error_Provider\Error_Provider\obj\Debug\Error_Provider.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Error_Provider\Error_Provider\obj\Debug\Error_Provider.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Error_Provider\Error_Provider\obj\Debug\Error_Provider.exe
+c:\users\admin\documents\visual studio 2013\Projects\Error_Provider\Error_Provider\obj\Debug\Error_Provider.pdb
+C:\Users\Admin\documents\visual studio 2013\Projects\Error_Provider\Error_Provider\obj\Debug\Error_Provider.csprojResolveAssemblyReference.cache

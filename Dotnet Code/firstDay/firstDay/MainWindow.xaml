@@ -1,0 +1,14 @@
+﻿<Window x:Class="firstDay.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <StackPanel>
+    <Label x:Name="labl1" FontSize="10" >hello world</Label>
+  
+          <Button Click="Button_Click" >clik me</Button>
+             
+        </StackPanel>
+       
+   
+    
+</Window>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="projectModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Purchase">
+    <Key>
+      <PropertyRef Name="Produc_id" />
+    </Key>
+    <Property Name="Produc_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Product_Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Produc_Quantity" Type="Int32" Nullable="false" />
+    <Property Name="Produc_Price" Type="Int32" Nullable="false" />
+    <Property Name="Produc_Date" Type="DateTime" Precision="0" />
+  </EntityType>
+  <EntityType Name="saleProduct">
+    <Key>
+      <PropertyRef Name="SaleProduct_id" />
+    </Key>
+    <Property Name="SaleProduct_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Customer_Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Gender" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Customer_Mobile_No" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Customer_Address" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="SaleProduct_Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="SaleProduct_Quantity" Type="Int32" Nullable="false" />
+    <Property Name="SaleProduct_Price" Type="Int32" Nullable="false" />
+    <Property Name="SaleProduct_Date" Type="DateTime" Precision="0" />
+  </EntityType>
+  <EntityContainer Name="projectEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Purchases" EntityType="Self.Purchase" />
+    <EntitySet Name="saleProducts" EntityType="Self.saleProduct" />
+  </EntityContainer>
+</Schema>

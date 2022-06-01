@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<link href="~/Content/bootstrap.css" rel="stylesheet" />
+<div class="row">
+    <div class="col-lg-4">
+        <img src="~/images/inventory-management-clipboard-warehouse-guy-feature.jpg" style="height:100px" class="w3-left w3-circle w3-margin-right" />
+        <br />
+        @Html.ActionLink("Purchase", "purchase", "Home", null, new { @class = "btn btn-primary " })
+    </div>
+
+    <div class="col-lg-4">
+        <img src="~/images/images.jfif" style="height:100px"><br />
+
+        @Html.ActionLink("Stock", "purchase", "Home", null, new { @class = "btn btn-primary " })
+
+        </div>
+
+    <div class="col-lg-4">
+        <img src="~/images/images.png" style="height:100px" /><br />
+        @Html.ActionLink("Sale", "purchase", "Home", null, new { @class = "btn btn-info " })
+        </div>
+
+
+          
+
+
+
+        
+    </div>

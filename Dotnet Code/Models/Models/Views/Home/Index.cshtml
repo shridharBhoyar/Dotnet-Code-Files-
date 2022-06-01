@@ -1,0 +1,42 @@
+﻿
+
+@Model Models.Models.employee
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+   <table>
+       <tbody>
+           <tr>
+               <td>
+                   Id
+               </td>
+               <td>
+                   @Model.id
+               </td>
+           </tr>
+           <tr>
+               <td>
+                   Name
+               </td>
+               <td>
+                   @Model.name
+               </td>
+           </tr>
+           <tr>
+               <td>
+                   Age
+               </td>
+               <td>
+                   @Model.age
+               </td>
+           </tr>
+       </tbody>
+   </table>
+</body>
+</html>

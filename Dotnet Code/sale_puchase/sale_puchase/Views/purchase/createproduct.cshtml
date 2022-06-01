@@ -1,0 +1,42 @@
+﻿@model sale_puchase.Models.purchase
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>createproduct</title>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+    
+       
+            @using (Html.BeginForm())
+            {
+                @Html.Label("product name") 
+
+                @Html.TextBoxFor(x => x.purchase_pd_name)
+
+                <br />
+                @Html.Label("product Quantity")
+
+                @Html.TextBoxFor(x => x.purchase_pd_quantity)
+
+                <br />
+                @Html.Label("Product Price")
+
+                @Html.TextBoxFor(x => x.purchase_pd_price)
+                <br />
+
+                <input type="submit" value="Purchase" class="btn btn-danger" />
+        
+                
+            }
+       @Html.ActionLink("stock", "displaystock", "stock");
+        <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+ 
+</body>
+</html>

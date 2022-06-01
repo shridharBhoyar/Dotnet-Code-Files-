@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2013\Projects\Inserting_Data_to_Database\Inserting_Data_to_Database\bin\Debug\Inserting_Data_to_Database.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Inserting_Data_to_Database\Inserting_Data_to_Database\bin\Debug\Inserting_Data_to_Database.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Inserting_Data_to_Database\Inserting_Data_to_Database\bin\Debug\Inserting_Data_to_Database.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Inserting_Data_to_Database\Inserting_Data_to_Database\obj\Debug\Inserting_Data_to_Database.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Inserting_Data_to_Database\Inserting_Data_to_Database\obj\Debug\Inserting_Data_to_Database.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Inserting_Data_to_Database\Inserting_Data_to_Database\obj\Debug\Inserting_Data_to_Database.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Inserting_Data_to_Database\Inserting_Data_to_Database\obj\Debug\Inserting_Data_to_Database.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Inserting_Data_to_Database\Inserting_Data_to_Database\obj\Debug\Inserting_Data_to_Database.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Inserting_Data_to_Database\Inserting_Data_to_Database\obj\Debug\Inserting_Data_to_Database.pdb

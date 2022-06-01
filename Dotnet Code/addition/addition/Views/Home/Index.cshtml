@@ -1,0 +1,15 @@
+﻿
+@model addition.Models.calulate
+<h2>Index</h2>
+
+
+@using (Html.BeginForm())
+{
+ <p>@Html.LabelFor(Model => Model.num1) &nbsp; @Html.TextBoxFor(Model => Model.num1)</p>  <br />
+  <p>@Html.LabelFor(Model => Model.num2) &nbsp; @Html.TextBoxFor(Model => Model.num2)</p> <br />
+
+<input type="submit" value="sum"/> <br />
+
+<p>ans is:- @ViewBag.rst </p> 
+    
+}

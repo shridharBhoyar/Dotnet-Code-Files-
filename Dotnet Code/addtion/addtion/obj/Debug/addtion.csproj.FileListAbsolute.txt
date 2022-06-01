@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\addtion\addtion\bin\Debug\addtion.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\addtion\addtion\bin\Debug\addtion.exe
+c:\users\admin\documents\visual studio 2013\Projects\addtion\addtion\bin\Debug\addtion.pdb
+c:\users\admin\documents\visual studio 2013\Projects\addtion\addtion\obj\Debug\addtion.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\addtion\addtion\obj\Debug\addtion.exe
+c:\users\admin\documents\visual studio 2013\Projects\addtion\addtion\obj\Debug\addtion.pdb

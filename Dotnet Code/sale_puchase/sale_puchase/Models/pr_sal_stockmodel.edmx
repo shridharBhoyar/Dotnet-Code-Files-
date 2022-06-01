@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="mvc_projectModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="purchase">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="purchase_pd_name" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="purchase_pd_quantity" Type="int" Nullable="false" />
+          <Property Name="purchase_pd_price" Type="int" Nullable="false" />
+          <Property Name="purchase_pd_date" Type="date" Nullable="false" />
+        </EntityType>
+        <EntityType Name="sale1">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="sale_pd_name" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="sale_pd_quantity" Type="int" Nullable="false" />
+          <Property Name="sale_pd_price" Type="int" Nullable="false" />
+          <Property Name="sale_pd_date" Type="date" Nullable="false" />
+        </EntityType>
+        <EntityType Name="stock">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="stock_pd_name" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="stock_pd_quantity" Type="int" Nullable="false" />
+          <Property Name="stock_pd_price" Type="int" Nullable="false" />
+          <Property Name="stock_pd_date" Type="date" Nullable="false" />
+        </EntityType>
+        <EntityContainer Name="mvc_projectModelStoreContainer">
+          <EntitySet Name="purchase" EntityType="Self.purchase" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="sale1" EntityType="Self.sale1" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="stock" EntityType="Self.stock" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="mvc_projectModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="purchase">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="purchase_pd_name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="purchase_pd_quantity" Type="Int32" Nullable="false" />
+          <Property Name="purchase_pd_price" Type="Int32" Nullable="false" />
+          <Property Name="purchase_pd_date" Type="DateTime" Nullable="false" Precision="0" />
+        </EntityType>
+        <EntityType Name="sale1">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="sale_pd_name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="sale_pd_quantity" Type="Int32" Nullable="false" />
+          <Property Name="sale_pd_price" Type="Int32" Nullable="false" />
+          <Property Name="sale_pd_date" Type="DateTime" Nullable="false" Precision="0" />
+        </EntityType>
+        <EntityType Name="stock">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="stock_pd_name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="stock_pd_quantity" Type="Int32" Nullable="false" />
+          <Property Name="stock_pd_price" Type="Int32" Nullable="false" />
+          <Property Name="stock_pd_date" Type="DateTime" Nullable="false" Precision="0" />
+        </EntityType>
+        <EntityContainer Name="mvc_projectEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="purchases" EntityType="Self.purchase" />
+          <EntitySet Name="sale1" EntityType="Self.sale1" />
+          <EntitySet Name="stocks" EntityType="Self.stock" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="mvc_projectModelStoreContainer" CdmEntityContainer="mvc_projectEntities">
+          <EntitySetMapping Name="purchases">
+            <EntityTypeMapping TypeName="mvc_projectModel.purchase">
+              <MappingFragment StoreEntitySet="purchase">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="purchase_pd_name" ColumnName="purchase_pd_name" />
+                <ScalarProperty Name="purchase_pd_quantity" ColumnName="purchase_pd_quantity" />
+                <ScalarProperty Name="purchase_pd_price" ColumnName="purchase_pd_price" />
+                <ScalarProperty Name="purchase_pd_date" ColumnName="purchase_pd_date" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="sale1">
+            <EntityTypeMapping TypeName="mvc_projectModel.sale1">
+              <MappingFragment StoreEntitySet="sale1">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="sale_pd_name" ColumnName="sale_pd_name" />
+                <ScalarProperty Name="sale_pd_quantity" ColumnName="sale_pd_quantity" />
+                <ScalarProperty Name="sale_pd_price" ColumnName="sale_pd_price" />
+                <ScalarProperty Name="sale_pd_date" ColumnName="sale_pd_date" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="stocks">
+            <EntityTypeMapping TypeName="mvc_projectModel.stock">
+              <MappingFragment StoreEntitySet="stock">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="stock_pd_name" ColumnName="stock_pd_name" />
+                <ScalarProperty Name="stock_pd_quantity" ColumnName="stock_pd_quantity" />
+                <ScalarProperty Name="stock_pd_price" ColumnName="stock_pd_price" />
+                <ScalarProperty Name="stock_pd_date" ColumnName="stock_pd_date" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

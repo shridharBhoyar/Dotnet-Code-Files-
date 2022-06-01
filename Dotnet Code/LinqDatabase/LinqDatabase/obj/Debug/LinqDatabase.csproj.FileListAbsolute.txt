@@ -1,0 +1,10 @@
+c:\users\admin\documents\visual studio 2013\Projects\LinqDatabase\LinqDatabase\bin\Debug\LinqDatabase.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\LinqDatabase\LinqDatabase\bin\Debug\LinqDatabase.exe
+c:\users\admin\documents\visual studio 2013\Projects\LinqDatabase\LinqDatabase\bin\Debug\LinqDatabase.pdb
+c:\users\admin\documents\visual studio 2013\Projects\LinqDatabase\LinqDatabase\obj\Debug\LinqDatabase.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\LinqDatabase\LinqDatabase\obj\Debug\LinqDatabase.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\LinqDatabase\LinqDatabase\obj\Debug\LinqDatabase.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\LinqDatabase\LinqDatabase\obj\Debug\LinqDatabase.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\LinqDatabase\LinqDatabase\obj\Debug\LinqDatabase.exe
+c:\users\admin\documents\visual studio 2013\Projects\LinqDatabase\LinqDatabase\obj\Debug\LinqDatabase.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\LinqDatabase\LinqDatabase\obj\Debug\LinqDatabase.Form2.resources

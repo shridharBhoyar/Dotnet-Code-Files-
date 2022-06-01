@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\table\table\bin\Debug\table.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\table\table\bin\Debug\table.exe
+c:\users\admin\documents\visual studio 2013\Projects\table\table\bin\Debug\table.pdb
+c:\users\admin\documents\visual studio 2013\Projects\table\table\obj\Debug\table.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\table\table\obj\Debug\table.exe
+c:\users\admin\documents\visual studio 2013\Projects\table\table\obj\Debug\table.pdb

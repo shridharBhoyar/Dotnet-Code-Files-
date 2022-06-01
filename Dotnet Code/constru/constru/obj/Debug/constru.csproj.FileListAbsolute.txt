@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\constru\constru\bin\Debug\constru.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\constru\constru\bin\Debug\constru.exe
+c:\users\admin\documents\visual studio 2013\Projects\constru\constru\bin\Debug\constru.pdb
+c:\users\admin\documents\visual studio 2013\Projects\constru\constru\obj\Debug\constru.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\constru\constru\obj\Debug\constru.exe
+c:\users\admin\documents\visual studio 2013\Projects\constru\constru\obj\Debug\constru.pdb

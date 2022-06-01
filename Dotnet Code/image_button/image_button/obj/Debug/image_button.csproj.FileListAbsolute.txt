@@ -1,0 +1,10 @@
+c:\users\admin\documents\visual studio 2013\Projects\image_button\image_button\bin\Debug\image_button.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\image_button\image_button\bin\Debug\image_button.exe
+c:\users\admin\documents\visual studio 2013\Projects\image_button\image_button\bin\Debug\image_button.pdb
+c:\users\admin\documents\visual studio 2013\Projects\image_button\image_button\obj\Debug\image_button.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\image_button\image_button\obj\Debug\image_button.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\image_button\image_button\obj\Debug\image_button.Form2.resources
+c:\users\admin\documents\visual studio 2013\Projects\image_button\image_button\obj\Debug\image_button.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\image_button\image_button\obj\Debug\image_button.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\image_button\image_button\obj\Debug\image_button.exe
+c:\users\admin\documents\visual studio 2013\Projects\image_button\image_button\obj\Debug\image_button.pdb

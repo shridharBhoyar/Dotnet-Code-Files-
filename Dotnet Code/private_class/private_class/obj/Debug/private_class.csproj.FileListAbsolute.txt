@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\private_class\private_class\bin\Debug\private_class.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\private_class\private_class\bin\Debug\private_class.exe
+c:\users\admin\documents\visual studio 2013\Projects\private_class\private_class\bin\Debug\private_class.pdb
+c:\users\admin\documents\visual studio 2013\Projects\private_class\private_class\obj\Debug\private_class.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\private_class\private_class\obj\Debug\private_class.exe
+c:\users\admin\documents\visual studio 2013\Projects\private_class\private_class\obj\Debug\private_class.pdb

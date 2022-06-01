@@ -1,0 +1,22 @@
+﻿@model DataAnotation.Models.employee
+
+<h2>Index</h2>
+
+@using(Html.BeginForm("Index","Home")){
+    
+ @Html.LabelFor(a=>a.Id) @Html.TextBoxFor(a => a.Id, "", new { @class="form-control"})
+    @Html.ValidationMessageFor(a => a.Id, "ID is Requared", new { @class="text-danger"})
+<br />
+
+@Html.LabelFor(a => a.Name)  @Html.TextBoxFor(a => a.Name, "", new { @class = "form-control" })
+      @Html.ValidationMessageFor(a=>a.Name,"Name is Requared")
+<br />
+
+@Html.LabelFor(a => a.age)  @Html.TextBoxFor(a => a.age, "", new { @class = "form-control" })   
+     @Html.ValidationMessageFor(a => a.age, "Age is Requared")
+     <br />
+    
+    <input type="submit" value="submit" class="btn btn-info"  />
+    
+}
+

@@ -1,0 +1,8 @@
+c:\users\admin\documents\visual studio 2013\Projects\Date_Time\Date_Time\bin\Debug\Date_Time.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Date_Time\Date_Time\bin\Debug\Date_Time.exe
+c:\users\admin\documents\visual studio 2013\Projects\Date_Time\Date_Time\bin\Debug\Date_Time.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Date_Time\Date_Time\obj\Debug\Date_Time.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\Date_Time\Date_Time\obj\Debug\Date_Time.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Date_Time\Date_Time\obj\Debug\Date_Time.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Date_Time\Date_Time\obj\Debug\Date_Time.exe
+c:\users\admin\documents\visual studio 2013\Projects\Date_Time\Date_Time\obj\Debug\Date_Time.pdb

@@ -1,0 +1,20 @@
+﻿<h1>index</h1>
+@Session["msg"]
+
+<ul>
+    @{
+        foreach (var item in (string[])Session["rray"])
+        {
+            <li>@item</li>
+        }
+    }
+</ul>
+
+<ul>
+    @{
+        foreach (var item in (List<string>)Session["list"])
+        {
+            <li>@item</li>
+        }
+    }
+</ul>

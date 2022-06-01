@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2013\Projects\Format_Exception\Format_Exception\bin\Debug\Format_Exception.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Format_Exception\Format_Exception\bin\Debug\Format_Exception.exe
+c:\users\admin\documents\visual studio 2013\Projects\Format_Exception\Format_Exception\bin\Debug\Format_Exception.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Format_Exception\Format_Exception\obj\Debug\Format_Exception.exe
+c:\users\admin\documents\visual studio 2013\Projects\Format_Exception\Format_Exception\obj\Debug\Format_Exception.pdb

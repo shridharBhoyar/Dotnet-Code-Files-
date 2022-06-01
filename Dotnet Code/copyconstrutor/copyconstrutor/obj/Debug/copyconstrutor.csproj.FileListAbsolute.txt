@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\copyconstrutor\copyconstrutor\bin\Debug\copyconstrutor.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\copyconstrutor\copyconstrutor\bin\Debug\copyconstrutor.exe
+c:\users\admin\documents\visual studio 2013\Projects\copyconstrutor\copyconstrutor\bin\Debug\copyconstrutor.pdb
+c:\users\admin\documents\visual studio 2013\Projects\copyconstrutor\copyconstrutor\obj\Debug\copyconstrutor.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\copyconstrutor\copyconstrutor\obj\Debug\copyconstrutor.exe
+c:\users\admin\documents\visual studio 2013\Projects\copyconstrutor\copyconstrutor\obj\Debug\copyconstrutor.pdb

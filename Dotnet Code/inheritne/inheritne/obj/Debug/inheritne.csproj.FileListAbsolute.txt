@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\inheritne\inheritne\bin\Debug\inheritne.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\inheritne\inheritne\bin\Debug\inheritne.exe
+c:\users\admin\documents\visual studio 2013\Projects\inheritne\inheritne\bin\Debug\inheritne.pdb
+c:\users\admin\documents\visual studio 2013\Projects\inheritne\inheritne\obj\Debug\inheritne.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\inheritne\inheritne\obj\Debug\inheritne.exe
+c:\users\admin\documents\visual studio 2013\Projects\inheritne\inheritne\obj\Debug\inheritne.pdb

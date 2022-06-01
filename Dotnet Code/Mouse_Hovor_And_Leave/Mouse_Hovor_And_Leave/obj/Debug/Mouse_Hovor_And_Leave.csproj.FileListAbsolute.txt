@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2013\Projects\Mouse_Hovor_And_Leave\Mouse_Hovor_And_Leave\bin\Debug\Mouse_Hovor_And_Leave.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Mouse_Hovor_And_Leave\Mouse_Hovor_And_Leave\bin\Debug\Mouse_Hovor_And_Leave.exe
+c:\users\admin\documents\visual studio 2013\Projects\Mouse_Hovor_And_Leave\Mouse_Hovor_And_Leave\bin\Debug\Mouse_Hovor_And_Leave.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Mouse_Hovor_And_Leave\Mouse_Hovor_And_Leave\obj\Debug\Mouse_Hovor_And_Leave.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\Mouse_Hovor_And_Leave\Mouse_Hovor_And_Leave\obj\Debug\Mouse_Hovor_And_Leave.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Mouse_Hovor_And_Leave\Mouse_Hovor_And_Leave\obj\Debug\Mouse_Hovor_And_Leave.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Mouse_Hovor_And_Leave\Mouse_Hovor_And_Leave\obj\Debug\Mouse_Hovor_And_Leave.exe
+c:\users\admin\documents\visual studio 2013\Projects\Mouse_Hovor_And_Leave\Mouse_Hovor_And_Leave\obj\Debug\Mouse_Hovor_And_Leave.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Mouse_Hovor_And_Leave\Mouse_Hovor_And_Leave\obj\Debug\Mouse_Hovor_And_Leave.csprojResolveAssemblyReference.cache
